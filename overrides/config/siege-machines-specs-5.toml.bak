@@ -1,0 +1,56 @@
+
+[siege_machines]
+
+	[siege_machines.mortar]
+		reloadTime = 200
+		durability = 80
+		inaccuracy = 0.2
+		projectileSpeed = 2.5
+
+	[siege_machines.battering_ram]
+		reloadTime = 100
+		durability = 250
+		inaccuracy = 0.5
+		projectileSpeed = 0.0
+
+	[siege_machines.catapult]
+		reloadTime = 200
+		durability = 100
+		inaccuracy = 0.2
+		projectileSpeed = 2.0
+
+	[siege_machines.ballista]
+		reloadTime = 120
+		durability = 50
+		inaccuracy = 0.04
+		projectileSpeed = 4.5
+
+	[siege_machines.culverin]
+		reloadTime = 200
+		durability = 80
+		inaccuracy = 0.2
+		projectileSpeed = 3.0
+
+	[siege_machines.trebuchet]
+		reloadTime = 400
+		durability = 300
+		inaccuracy = 0.2
+		projectileSpeed = 2.8
+
+[missiles]
+
+	[missiles.cannonball]
+		destroysGround = false
+		mass = 15.0
+		explosionRadius = 3.0
+
+	[missiles.giant_stone]
+		destroysGround = false
+		mass = 70.0
+		explosionRadius = 5.0
+
+	[missiles.stone]
+		destroysGround = false
+		mass = 50.0
+		explosionRadius = 2.0
+

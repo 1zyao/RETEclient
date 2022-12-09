@@ -1,0 +1,8 @@
+
+#Client settings
+[client]
+	#Not recommended
+	foil_xuanyuanjian = false
+	#Is normal swords foil?
+	foil_normal = true
+
