@@ -2,14 +2,12 @@
     "Config":[
         {
             "version":"1.3",
-            "link":"https://raw.githubusercontent.com/1zyao/RETEclient/main/RETE1.16.5.zip",
+            "link":"https://github.com/1zyao/RETEclient/raw/main/RETE1.16.5.zip",
             "time":"2022.12.8 15:30:28",
             "description":"我是一段最新版本的介绍"
         }
     ],
     "Del_nub":2,
     "Delete":[
-        ".minecraft|mods|123.jar",
-        ".minecraft|configs"
     ]
 }
