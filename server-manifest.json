@@ -1,8 +1,8 @@
 {
   "name": "RETE1.16.5",
   "author": "minecraft97323",
-  "version": "1.3.5",
-  "description": "1.优化部分细节。\n2.增加稳定性。",
+  "version": "1.3.6",
+  "description": "1.添加NPC模组。\n2.增加稳定性。",
   "fileApi": "https://file.rete.buzz",
   "files": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "hash": "bb1dd710b0a2aefc19c7d4b12a4b85a1ba464872"
+      "hash": "7a9e022731bcc960c8feaaa65f22e190bc8da549"
     },
     {
       "path": "config/betteradvancements-client-1.toml.bak",
@@ -2414,6 +2414,10 @@
       "hash": "14a6dfa711628d694582f7d54a7dca0fafcbab3a"
     },
     {
+      "path": "mods/CustomNPCs-1.16.5.20220515.jar",
+      "hash": "868c476be34bac92bc4f98d864a8d62c3792817d"
+    },
+    {
       "path": "mods/CustomWindowTitle-1.15+v1.1.1.jar",
       "hash": "e9a71ec10c355cc2442717cb1909f2d72ed9c360"
     },
@@ -3940,6 +3944,10 @@
     {
       "path": "patchouli_data.json",
       "hash": "b25365d1c7629d189c37695f533f614975a7f42f"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "88c6c240840f25a9d36c571eba79005d7a3db9ea"
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-1-16.zip",

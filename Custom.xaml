@@ -10,9 +10,11 @@
                  Text="启动 RETE 1.16.5" EventType="启动游戏" EventData="RETE1.16.5" />
         <TextBlock TextWrapping="Wrap"
                  Text="您只需将更新文件解压到启动器的目录即可" />
+        <TextBlock TextWrapping="Wrap"
+                 Text="当前可增量升级版本：1.3.5" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Left"
-                 Text="下载整合包更新文件" EventType="立即下载" EventData="https://rete.one" />
+                 Text="下载整合包更新文件" EventType="立即下载" EventData="https://file.rete.buzz/RETEupdate1.3.5-1.3.6.zip" />
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
         </StackPanel>
