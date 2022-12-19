@@ -1,9 +1,9 @@
 {
   "name": "RETE1.16.5",
   "author": "minecraft97323",
-  "version": "1.3.6",
-  "description": "1.添加NPC模组。\n2.增加稳定性。",
-  "fileApi": "https://file.rete.buzz",
+  "version": "1.3.6 Fix",
+  "description": "修复遗留的错误",
+  "fileApi": "https://raw.fastgit.org/1zyao/RETEclient/main",
   "files": [
     {
       "path": ".abnormal",
@@ -154,6 +154,10 @@
       "hash": "3fce804f0826db9c2a728837333c11c6e95ba56c"
     },
     {
+      "path": "config/blur-client.toml",
+      "hash": "dbd48d5d38020e9b45fe1cff5e28032dbae9b1ce"
+    },
+    {
       "path": "config/buddycards-client.toml",
       "hash": "11f9518c20edf524eedc71f11dbceddccb670fab"
     },
@@ -195,7 +199,7 @@
     },
     {
       "path": "config/clienttweaks-client.toml",
-      "hash": "4adcde9907cd48c91e4f248b57be20a091dfea00"
+      "hash": "a6decec7a49f883cf0ff6b083b60757a1fb1eace"
     },
     {
       "path": "config/cobblegenrandomizer-common-1.toml.bak",
@@ -211,7 +215,7 @@
     },
     {
       "path": "config/collective-common.toml",
-      "hash": "100c794906b094e96a94eeb9d5a157dab4ba65e0"
+      "hash": "19d8e04bfbc4e59600e22a5f69d31942d87dc982"
     },
     {
       "path": "config/computercraft-client.toml",
@@ -266,6 +270,10 @@
       "hash": "bead710ee0540fd8ae3c5164b2d02ae15b06e35c"
     },
     {
+      "path": "config/CustomNpcs.cfg",
+      "hash": "5a13cdfe869456c1fc0beb66e27fe4719b0beb48"
+    },
+    {
       "path": "config/customwindowtitle-client.toml",
       "hash": "92b96398e35927f16478b75826a045ebd8274738"
     },
@@ -299,7 +307,7 @@
     },
     {
       "path": "config/durabilityviewer.json",
-      "hash": "622e3abfde8f7ae1909e2f44941d893af91a52d6"
+      "hash": "1708237d5867777d1b23fde932e307ca0c05ce71"
     },
     {
       "path": "config/dynamic_lights_reforged.toml",
@@ -544,6 +552,10 @@
     {
       "path": "config/ftbquests/quests/data.snbt",
       "hash": "74a9b473564cb174e363024be0eae6637aa3e622"
+    },
+    {
+      "path": "config/gamemenumodoption-client.toml",
+      "hash": "08e14fc45862d349b6d9670a511dd12f6d6ebcbc"
     },
     {
       "path": "config/grapplemod.toml",
@@ -826,6 +838,10 @@
       "hash": "d834b6422e8501244fae4673b62c59f848bb51d3"
     },
     {
+      "path": "config/keystrokesmod-client.toml",
+      "hash": "77ff30714b7c61e777c0da213e92761c40e6bad0"
+    },
+    {
       "path": "config/knightly-armory_epicfight.toml",
       "hash": "2437bb125ddf25521c90655740367ae2fdcc8c30"
     },
@@ -846,6 +862,18 @@
       "hash": "66d378414bfe33cc70cc4e5c364708112c39553a"
     },
     {
+      "path": "config/ModernUI/bootstrap",
+      "hash": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"
+    },
+    {
+      "path": "config/ModernUI/client.toml",
+      "hash": "7121856701fb97e254d4d6cfb30c9e0f06866c48"
+    },
+    {
+      "path": "config/ModernUI/common.toml",
+      "hash": "5f56d3216bd8d445572bd96f29d8501982b55761"
+    },
+    {
       "path": "config/moreminecartsconfig.toml",
       "hash": "7d183f8f7d02039d0ac3ee5db6a1bee928aa9585"
     },
@@ -863,7 +891,7 @@
     },
     {
       "path": "config/neat-client.toml",
-      "hash": "72467f86b3b7b7cfa12be05652c8f797ecd472dd"
+      "hash": "c2cc4a2f76e470112c45bc8da5ce4cc17cac9bfb"
     },
     {
       "path": "config/occultism-client.toml",
@@ -1255,7 +1283,7 @@
     },
     {
       "path": "config/sidebar_buttons.json",
-      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      "hash": "27c79e3e2136ba62a4eee50bb0a66a0d8c12cba2"
     },
     {
       "path": "config/siege-machines-specs-1.toml.bak",
@@ -1422,12 +1450,16 @@
       "hash": "dd38a1c2404a73309d5feb3fdb9aefe161a7d3bf"
     },
     {
+      "path": "config/wwta-client.toml",
+      "hash": "2ffdab4e01f325400c145f2e5faedcc70d75df4a"
+    },
+    {
       "path": "config/xaerominimap.txt",
       "hash": "89af4a188fcb058a1e152c4a4094838b0dd974fb"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "d6ce6f95d74d0ac92d08e4fa4a026c70bcbe26ce"
+      "hash": "3bf735d5b620dfbbb92ebd590bd93ce0357824c9"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -1444,6 +1476,14 @@
     {
       "path": "config/xreliquary-common.toml",
       "hash": "a4f6bb57c44182149a1f09357e68e5d438617a10"
+    },
+    {
+      "path": "customnpcs/assets/customnpcs/sounds.json",
+      "hash": "1bd8ce28f3075c8699068a4628ebd664915b4a1a"
+    },
+    {
+      "path": "customnpcs/pack.mcmeta",
+      "hash": "485e37a760a3a42c843330af9c5a4fcf7d2da43c"
     },
     {
       "path": "defaultconfigs/create-server.toml",
@@ -2206,6 +2246,10 @@
       "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
     },
     {
+      "path": "mods/3dSkinLayers-forge-1.1.0.jar",
+      "hash": "7f7e529371eade9915cf7f727545783127186072"
+    },
+    {
       "path": "mods/abnormals_core-1.16.5-3.3.0.jar",
       "hash": "528abeff9d09605015e09d3a26605de3758ed47d"
     },
@@ -2220,6 +2264,10 @@
     {
       "path": "mods/antiqueatlas-6.0.1-forge-mc1.16.5.jar",
       "hash": "e12f209546b7f92128d246f2b5efdc95edce2d96"
+    },
+    {
+      "path": "mods/anviltweaks-3.1.jar",
+      "hash": "d02b563769d99ae46ef9500bfcc49c835a09edad"
     },
     {
       "path": "mods/appleskin-forge-mc1.16.x-2.2.0.jar",
@@ -2250,6 +2298,10 @@
       "hash": "255eba3aea7dcf0c131f06fd708d94dbf91b808c"
     },
     {
+      "path": "mods/AttributeFix-1.16.5-10.1.4.jar",
+      "hash": "a2a8e60fc37df2a11eb2931dc621d60dc535b54d"
+    },
+    {
       "path": "mods/automatic-elytra-1.16.5-1.0.jar",
       "hash": "afcd7c3b60970c8950e2304290f44e60e95d836a"
     },
@@ -2258,12 +2310,20 @@
       "hash": "2b76d4a98ca05a32a803b72b4b91fb2101350210"
     },
     {
+      "path": "mods/bendy-lib-forge-1.2.1.jar",
+      "hash": "d3adbf7db927f9d4c0940e3ca6c22260aeadda09"
+    },
+    {
       "path": "mods/BetterAdvancements-1.16.5-0.1.0.108.jar",
       "hash": "1dfeb432ee24b7f26dd51c5a5cacde30e785f6d8"
     },
     {
       "path": "mods/BetterBurning-1.16.5-6.0.6.jar",
       "hash": "51d1b01f317c47f8af15eab7c80548cfb149023e"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-1.0.7-build.22+mc1.16.5.jar",
+      "hash": "c6d3f19b522ca13e9857a31d0badbe3918e281a7"
     },
     {
       "path": "mods/betterfpsdist-1.2.jar",
@@ -2330,10 +2390,6 @@
       "hash": "379cb679871b11d03641eb1e1d2c449a7f246195"
     },
     {
-      "path": "mods/cloth-config-4.12.41-forge.jar",
-      "hash": "48898db8c47eb4647e4c442c2566cbeee74f851e"
-    },
-    {
       "path": "mods/cloth-config-4.16.91-forge.jar",
       "hash": "422e4f65872bf8babfa139094b7cb242e9f9f434"
     },
@@ -2356,6 +2412,10 @@
     {
       "path": "mods/collective-1.16.5-5.16.jar",
       "hash": "1c72cf7daf346f823bc94406ebe6daa262a6efb7"
+    },
+    {
+      "path": "mods/collective-1.16.5-5.34.jar",
+      "hash": "48fd94739d9b547504d41d7f460498a3ee170225"
     },
     {
       "path": "mods/configured-1.5.1-1.16.5.jar",
@@ -2406,16 +2466,16 @@
       "hash": "1c6a7667cf77e7835f3d7e309e5f2f1b4440a978"
     },
     {
-      "path": "mods/curios-forge-1.16.5-4.0.5.3.jar",
-      "hash": "a69c63694c671ecb9adb72e8f303c1196219950f"
-    },
-    {
       "path": "mods/curios-forge-1.16.5-4.0.8.0.jar",
       "hash": "14a6dfa711628d694582f7d54a7dca0fafcbab3a"
     },
     {
       "path": "mods/CustomNPCs-1.16.5.20220515.jar",
       "hash": "868c476be34bac92bc4f98d864a8d62c3792817d"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeLegacy-14.14.jar",
+      "hash": "025eff82215eca90bd5ef93c398a57d85dcbf5c2"
     },
     {
       "path": "mods/CustomWindowTitle-1.15+v1.1.1.jar",
@@ -2460,6 +2520,10 @@
     {
       "path": "mods/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
       "hash": "291a114185f4f58039cf81ac2032c391bb04f70f"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.16.5-2.2.5-forge.jar",
+      "hash": "9181084a8ddea618dc53ce44a69d560d80d90b3b"
     },
     {
       "path": "mods/enchantedbookredesign-3.3-1.16.4.jar",
@@ -2594,12 +2658,20 @@
       "hash": "fb538c5a8eb1e8a7a2bc35f3344b816634d53e4e"
     },
     {
+      "path": "mods/inventorytotem_1.16.5-2.2.jar",
+      "hash": "54661c1e7e9c028ab58b54910a39e3eabae86b43"
+    },
+    {
       "path": "mods/item-filters-forge-1605.2.5-build.9.jar",
       "hash": "52c14355c8e416d30f92eb2a2544f397f4693c34"
     },
     {
       "path": "mods/Jade-1.16.4-2.8.0.jar",
       "hash": "108bb973835c12182fdd5478b99374d430fb4d81"
+    },
+    {
+      "path": "mods/jecharacters-1.16.4-4.3.6.jar",
+      "hash": "aee138e56f1e667d4a2d686ba4d9358e13f44061"
     },
     {
       "path": "mods/jei-1.16.5-7.7.1.137.jar",
@@ -2722,16 +2794,16 @@
       "hash": "247bd677cf9361d2d1136e558a202233264e098f"
     },
     {
-      "path": "mods/PGA-1.16.4-1.1.2.1.jar",
-      "hash": "cc13968c877409a0db5c6a34c990f4568803363e"
-    },
-    {
       "path": "mods/pipez-1.16.5-1.2.13.jar",
       "hash": "0f56cafeee0983a95ed603bc57a4c916b3f146fb"
     },
     {
       "path": "mods/Placebo-1.16.5-4.6.0.jar",
       "hash": "55c6732ec5a607e9b3386d03c18889e763cccbf1"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-0.4.0-test1+1.16.5.jar",
+      "hash": "2b7d5b385fa07ca2890ec354ced475324a9aabb2"
     },
     {
       "path": "mods/ponderjs-1.16.5-1.0.3d.jar",
@@ -2900,6 +2972,10 @@
     {
       "path": "mods/WaterStrainer-1.16.3-10.0.0.jar",
       "hash": "451c484ed340daf8d81804cc88b3f5182fe1dd22"
+    },
+    {
+      "path": "mods/WaveyCapes-forge-1.2.0-mc1.16.5.jar",
+      "hash": "0e64ecbe3242f56514db3fefc3246c68c886bb9c"
     },
     {
       "path": "mods/worldshape-1.0.jar",
@@ -3951,7 +4027,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-1-16.zip",
-      "hash": "5d389aa140760e9de106baa1b9dc75dc2ffe806b"
+      "hash": "cce957d321a9169d4efa33caa3f0b0fed692ee54"
     },
     {
       "path": "servers.dat",

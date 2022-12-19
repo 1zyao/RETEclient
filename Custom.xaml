@@ -3,7 +3,7 @@
         <TextBlock TextWrapping="Wrap"
                  Text="RETE服务器欢迎您，" />
         <TextBlock TextWrapping="Wrap"
-                 Text="整合包最新版本1.3.6！" />
+                 Text="整合包最新版本1.3.6 Fix！" />
         <TextBlock TextWrapping="Wrap"
                  Text="推荐您在版本更新时更新最新版本" />
         <local:MyButton Margin="0,8,0,10" Width="250" Height="35"
@@ -11,7 +11,7 @@
         <TextBlock TextWrapping="Wrap"
                  Text="您只需将更新文件解压到启动器的目录即可" />
         <TextBlock TextWrapping="Wrap"
-                 Text="当前可增量升级版本：1.3.5" />
+                 Text="当前可增量升级版本：N/A" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Left"
                  Text="下载整合包更新文件" EventType="立即下载" EventData="https://file.rete.buzz/RETEupdate1.3.5-1.3.6.zip" />
