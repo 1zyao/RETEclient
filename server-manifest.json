@@ -3,7 +3,7 @@
   "author": "minecraft97323",
   "version": "1.3.6",
   "description": "1.添加NPC模组。\n2.增加稳定性。",
-  "fileApi": "https://file.rete.buzz",
+  "fileApi": "https://raw.fastgit.org/1zyao/RETEclient/main",
   "files": [
     {
       "path": ".abnormal",
