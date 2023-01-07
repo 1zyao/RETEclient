@@ -3,7 +3,7 @@
   "author": "minecraft97323",
   "version": "1.3.7",
   "description": "1.添加时装工坊和AstikorCarts模组。\n2.增加稳定性。",
-  "fileApi": "https://e.liuzhen932.fun/raw.githubusercontent.com/1zyao/RETEclient/main/compatible",
+  "fileApi": "https://reteserver.ml/raw.githubusercontent.com/1zyao/RETEclient/main/compatible",
   "files": [
     {
       "path": ".abnormal",
