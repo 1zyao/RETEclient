@@ -1,0 +1,4151 @@
+{
+  "name": "RETE1.16.5",
+  "author": "minecraft97323",
+  "version": "1.3.7",
+  "description": "1.添加时装工坊和AstikorCarts模组。\n2.增加稳定性。",
+  "fileApi": "https://e.liuzhen932.fun/raw.githubusercontent.com/1zyao/RETEclient/main/compatible",
+  "files": [
+    {
+      "path": ".abnormal",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/abnormals_core-client.toml",
+      "hash": "6285aaeb9e4fa94237c210c40c1c7b80e1584679"
+    },
+    {
+      "path": "config/abnormals_core-common.toml",
+      "hash": "6914375cdf4d7cb04c2cfcf114737f1c8ee31174"
+    },
+    {
+      "path": "config/advancedRocketry-1.toml.bak",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advancedRocketry-2.toml.bak",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advancedRocketry-3.toml.bak",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advancedRocketry-4.toml.bak",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advancedRocketry-5.toml.bak",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advancedRocketry.toml",
+      "hash": "ee1cce8ed879997d4875c448f54f6287ce3c7353"
+    },
+    {
+      "path": "config/advRocketry/asteroidConfig.xml",
+      "hash": "c934a3c734d016de39216d5eef6b1068280a7f6a"
+    },
+    {
+      "path": "config/advRocketry/oreConfig.xml",
+      "hash": "e5f576dac48a3a0889dd532458b1d5793d953eeb"
+    },
+    {
+      "path": "config/advRocketry/planetDefs.xml",
+      "hash": "df2fd6405bc40646727256a560cee2bebf419bac"
+    },
+    {
+      "path": "config/aiimprovements-common.toml",
+      "hash": "a068cd0b285d806d9c12183816a7f49fae5da93d"
+    },
+    {
+      "path": "config/antiqueatlas.client.toml",
+      "hash": "42a5dbd336efec25c6ebbe8222892a5ef79756f6"
+    },
+    {
+      "path": "config/antiqueatlas.common.toml",
+      "hash": "cfd496408299e15316bcb6a14e806696ed766569"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/appliedenergistics2-client-1.toml.bak",
+      "hash": "6dcf35ec875d9bf5a31b0e37ffb496c73a6bf3ea"
+    },
+    {
+      "path": "config/appliedenergistics2-client.toml",
+      "hash": "b37bdb8ed746c4b20218e4d7d97dcfd64795d03a"
+    },
+    {
+      "path": "config/appliedenergistics2-common-1.toml.bak",
+      "hash": "1c2fd8f9fcbd000c4ca9e02c154ae5761bcb6f31"
+    },
+    {
+      "path": "config/appliedenergistics2-common-2.toml.bak",
+      "hash": "3fe4128279e86b59c59ecd079dad30913bfa7156"
+    },
+    {
+      "path": "config/appliedenergistics2-common-3.toml.bak",
+      "hash": "613557133646b1a431d2c64803f1bbfe5713c8bc"
+    },
+    {
+      "path": "config/appliedenergistics2-common.toml",
+      "hash": "9893dbb5984cc2826a4326e7b7a1eabeab7380ea"
+    },
+    {
+      "path": "config/aquaculture-common.toml",
+      "hash": "01ed8bebb6d122fb2f76869348d29c07f763d2f6"
+    },
+    {
+      "path": "config/archers_paradox-client.toml",
+      "hash": "e726f82a47cdd802cfadede715ec3cc928105d2d"
+    },
+    {
+      "path": "config/arsenal_core-client.toml",
+      "hash": "66654616d562c789409baf93bd723016f881adf9"
+    },
+    {
+      "path": "config/arsenal_core-common.toml",
+      "hash": "48a770f8ce1123a5d6f7f66b200dc4c1096c7ac1"
+    },
+    {
+      "path": "config/backtools.toml",
+      "hash": "8460115c953f6cd5358c7e583ece6421ef598781"
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "hash": "b16536d0814a9979f4cf1b7b10336284a81ebc97"
+    },
+    {
+      "path": "config/betteradvancements-client-1.toml.bak",
+      "hash": "0553a3da5bcc0fc9895991f2965e980e07fc538d"
+    },
+    {
+      "path": "config/betteradvancements-client.toml",
+      "hash": "0553a3da5bcc0fc9895991f2965e980e07fc538d"
+    },
+    {
+      "path": "config/betterburning-common.toml",
+      "hash": "17e58fec082a0aad639e9717cadf681b7d9a42d6"
+    },
+    {
+      "path": "config/betterfpsdist-common.toml",
+      "hash": "180474b650d3b19fd8feac89ecbca38e5f0f0da1"
+    },
+    {
+      "path": "config/bettertitlescreen-client.toml",
+      "hash": "5f2bcc37f887fe4f56564318763dec14a2db8bf1"
+    },
+    {
+      "path": "config/biomesoplenty/biomes.json",
+      "hash": "4a9e1c17fa1013894b4fb841a151b544e4e7fc47"
+    },
+    {
+      "path": "config/biomesoplenty/client.toml",
+      "hash": "3c9a9ed0e0b344e132737bffa869731b06afc123"
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "hash": "47c1fb29e66be68eddfcf60c1fa6e8c33590567b"
+    },
+    {
+      "path": "config/blockcarpentry-common.toml",
+      "hash": "3fce804f0826db9c2a728837333c11c6e95ba56c"
+    },
+    {
+      "path": "config/buddycards-client.toml",
+      "hash": "11f9518c20edf524eedc71f11dbceddccb670fab"
+    },
+    {
+      "path": "config/bwncr-common.toml",
+      "hash": "92ee5089fa0f5b14ccb9e3b272094df8a4796c73"
+    },
+    {
+      "path": "config/cavebiomeapi-common.toml",
+      "hash": "a6223f7da52a5326f133f02e5757792a76a84040"
+    },
+    {
+      "path": "config/cavern-common.toml",
+      "hash": "58c617c33e522584448e96ed27cc5770eb115e66"
+    },
+    {
+      "path": "config/CBMicroblock.cfg",
+      "hash": "912b3c39928b755d25a5d0ae977e329cb63cfe2b"
+    },
+    {
+      "path": "config/ccl.cfg",
+      "hash": "b83bee13a27e56a4fa92574e0f8598a52da7c6ab"
+    },
+    {
+      "path": "config/ChickenChunks.cfg",
+      "hash": "225a0565034d94da70ed3717b11c92c2b471c53a"
+    },
+    {
+      "path": "config/chiselsandbits-client.toml",
+      "hash": "6e72c70d879b11e7b22856bb81c67588f7e02428"
+    },
+    {
+      "path": "config/chiselsandbits-common.toml",
+      "hash": "e28d888d3034109a6380639902b42d5799e112e7"
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "hash": "7a1bc265529aa396bc7cea3ea54480b43d7d5a9b"
+    },
+    {
+      "path": "config/clienttweaks-client.toml",
+      "hash": "4adcde9907cd48c91e4f248b57be20a091dfea00"
+    },
+    {
+      "path": "config/cobblegenrandomizer-common-1.toml.bak",
+      "hash": "714d7c53ebe61553735ab476ed52c94b8edaecdb"
+    },
+    {
+      "path": "config/cobblegenrandomizer-common.toml",
+      "hash": "209f8ac41a35b14625da34aaf2436aa119d55a7d"
+    },
+    {
+      "path": "config/cofh_core-client.toml",
+      "hash": "5f265e5055a335859b7ac5d88d08fed5485c5f48"
+    },
+    {
+      "path": "config/collective-common.toml",
+      "hash": "f36de380e4b56b98675f0ce0191315ee7780401a"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "7d4d3815796667fb1fd0f809ee7865d0f2662e7c"
+    },
+    {
+      "path": "config/concheckrmd-client.toml",
+      "hash": "28c0ce5a9de16bcea39363cc8ebd191cd669bed5"
+    },
+    {
+      "path": "config/configured-client.toml",
+      "hash": "ac0069873bb7db1e9de30313719197d9c3eacbba"
+    },
+    {
+      "path": "config/connectivity-common.toml",
+      "hash": "677fffa34cd598d9965a65262f8772172469e797"
+    },
+    {
+      "path": "config/constructionwand-client.toml",
+      "hash": "02aac28292c4b528d9ababf94209cea204d9d026"
+    },
+    {
+      "path": "config/cookiecore-client.toml",
+      "hash": "f9edb7aeb8fb7377eea15914f117100c35140a4d"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-client.toml",
+      "hash": "a4cbe7fb5a3c3378d89cd27ff3251adcd7c0a900"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-common.toml",
+      "hash": "ce6fb090dd33f6114e1fd88e0caa3dcf21e42bd5"
+    },
+    {
+      "path": "config/craftingtweaks-client.toml",
+      "hash": "03c025cc5bdf6c05cbb79675093fc5409e285d03"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml",
+      "hash": "cc27582d1c188a9d3df0ad868d9313a9fb59cf7e"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "593a6078e4f9d38a86bfaf5cecfea8450889e68c"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "2ced562dab4eee98efd8c119248f23c45ad46dfe"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "a42264be7e4960427a41f6078bf277db50ba80fb"
+    },
+    {
+      "path": "config/custom-micromaterials.cfg",
+      "hash": "bead710ee0540fd8ae3c5164b2d02ae15b06e35c"
+    },
+    {
+      "path": "config/CustomNpcs.cfg",
+      "hash": "0da78a54f59d91e9ae42522389ce9784b1422a0c"
+    },
+    {
+      "path": "config/customwindowtitle-client.toml",
+      "hash": "92b96398e35927f16478b75826a045ebd8274738"
+    },
+    {
+      "path": "config/darkerdepths-common.toml",
+      "hash": "d314734d79a8ddbfc4d438c75b6b48226a92d4d4"
+    },
+    {
+      "path": "config/decorative_blocks-common.toml",
+      "hash": "4e6200256bb1aec5a25640ab02e0b5aca4204d9c"
+    },
+    {
+      "path": "config/defaultoptions/keybindings.txt",
+      "hash": "abfeb16b2ca38be47427ffad4579120d55269ad7"
+    },
+    {
+      "path": "config/defaultoptions/options.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/defaultoptions-common.toml",
+      "hash": "4257047e5f3eafa30ae917322242dbf3b19593b2"
+    },
+    {
+      "path": "config/dice-common.toml",
+      "hash": "23f7d3a3e41778fe273db8a73327e21e8531e2db"
+    },
+    {
+      "path": "config/dungeon_crawl.toml",
+      "hash": "131dca1ce597930742c3d3103e313dd468d1a544"
+    },
+    {
+      "path": "config/durabilityviewer.json",
+      "hash": "622e3abfde8f7ae1909e2f44941d893af91a52d6"
+    },
+    {
+      "path": "config/dynamic_lights_reforged.toml",
+      "hash": "1931792dd2ae0afd8092c586d8d8aaad26299824"
+    },
+    {
+      "path": "config/emotecraft.json",
+      "hash": "ba6286cd43b7dda5de9c81a38599544f70c0f1ad"
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "hash": "be63473ca7f8286a8827f2e151fff6ce4016ff4d"
+    },
+    {
+      "path": "config/enchantedbookredesign-client.toml",
+      "hash": "bd5c54dac984c51c6c298450a22ce21e56d9a071"
+    },
+    {
+      "path": "config/endergetic-common.toml",
+      "hash": "8cfad1177cec483d856481fb840041978e2b00ba"
+    },
+    {
+      "path": "config/EnderStorage.cfg",
+      "hash": "4110547c387c96f481e3d2dd840ec51917952534"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf"
+    },
+    {
+      "path": "config/epic-knights-1.toml.bak",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/epic-knights-2.toml.bak",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/epic-knights-3.toml.bak",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/epic-knights-4.toml.bak",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/epic-knights-5.toml.bak",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/epic-knights.toml",
+      "hash": "0346b30345ba7193e0cb92e9235701aba6cdec45"
+    },
+    {
+      "path": "config/Exchangers-1.toml.bak",
+      "hash": "e377e2744fbb608c55ec6a591040a38edaa700e9"
+    },
+    {
+      "path": "config/Exchangers.toml",
+      "hash": "0df540b33422735a4490fd225265e3c67b2a69f6"
+    },
+    {
+      "path": "config/exoticbirds-common.toml",
+      "hash": "a91741696c3f7b426908146940f6a032faf5328c"
+    },
+    {
+      "path": "config/extcaves_config.toml",
+      "hash": "776ea303856af26fefe72727666b73720a778e44"
+    },
+    {
+      "path": "config/fairylights-client.toml",
+      "hash": "01bddeee544d7b98c8f68b278d14af7d6cff8ee1"
+    },
+    {
+      "path": "config/fairylights-common.toml",
+      "hash": "00f9727a9d409ebbc6cf2bc98eb657fa597486ed"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "1c7a85bcab79dae7fd2c1622e76ccc9e5316d9fa"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "fc4fab5d8a5ad64369df03095dee11d0ee40e5f9"
+    },
+    {
+      "path": "config/fastbench.cfg",
+      "hash": "ac80283165e37bea6a4d7af517e8308d77d78cab"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "b23e7c96de59cab834d4572f5301855e8f53a938"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "18015f5fb2d36662bcc0400c3f4662da43cb3ba1"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "7ae1a74d78695252add9eede4b867179389dc97d"
+    },
+    {
+      "path": "config/forbidden_arcanus-client.toml",
+      "hash": "3bcef4031472504412f2a715012cad36d2907950"
+    },
+    {
+      "path": "config/forbidden_arcanus-common.toml",
+      "hash": "7b928bd777b3431cc11c39a28f0e6968414a22d8"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "c13738f564b1ae7c1f4091314ff72e733138df97"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "42f6994c80e3b8b0c9340745fceb3eec6124bd4d"
+    },
+    {
+      "path": "config/forgivingvoid-common.toml",
+      "hash": "408835165c821794ee9e7c7b19273b78627f7fb6"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "458e92453e1e80fe56be500f3316123b410df014"
+    },
+    {
+      "path": "config/ftbbackups-common.toml",
+      "hash": "3d2a685d1c84da9cc2338bdfc3d2b2e4ee78a42c"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/lifesavers.snbt",
+      "hash": "a95193235b96de96d706f175e4e10861dffb5774"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/market.snbt",
+      "hash": "e8b4553bdbc0dfc7dda78bd12ed5ee3123e8d68d"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/metallurgy.snbt",
+      "hash": "4b913dbedc77ae5e6f095f0bf77a68ee7eebf419"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/overview.snbt",
+      "hash": "38f210d850a84895b52a0e80c8049709c3e7d1de"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/professions.snbt",
+      "hash": "25bb9e18c79dd21d0862f9a71a622eadf7aa91af"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/shipments.snbt",
+      "hash": "b5a255c93c2bb93f380b97ef5576e1791283b657"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_1.snbt",
+      "hash": "666995bab672f39eaa93c1ee44e5571532d8d5e1"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_2.snbt",
+      "hash": "8fe0152abe46206abc44d338341d81df9f0637f5"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_3.snbt",
+      "hash": "53216c1bd9c44be9b3a8207d221bf9e1f786a171"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_4.snbt",
+      "hash": "bb961202cbaef7770f90b88bccb608e0b1ac0b78"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_4b.snbt",
+      "hash": "dd0e75e889728a27c45c0ff81f592ca48a707da9"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/stage_5.snbt",
+      "hash": "3cb5ae9a27fd52966c84023d7776650b99b8be67"
+    },
+    {
+      "path": "config/ftbquests/backup/chapters/welcome.snbt",
+      "hash": "22aea1495d6e50a3be0616265ea9f45d6d60c8b3"
+    },
+    {
+      "path": "config/ftbquests/backup/chapter_groups.snbt",
+      "hash": "1ed33517db3e622c9eeec7e4c508f2053478929e"
+    },
+    {
+      "path": "config/ftbquests/backup/data.snbt",
+      "hash": "74a9b473564cb174e363024be0eae6637aa3e622"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/lifesavers.snbt",
+      "hash": "3849c9698b605374fc30ba9d2de7dae078b5227c"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/market.snbt",
+      "hash": "585001066958c30211d9e3f986102dbc3a962a4e"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/metallurgy.snbt",
+      "hash": "4b913dbedc77ae5e6f095f0bf77a68ee7eebf419"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/overview.snbt",
+      "hash": "165bd686f21889c84d1a3b94589ae0355b0f3466"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/professions.snbt",
+      "hash": "25bb9e18c79dd21d0862f9a71a622eadf7aa91af"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/shipments.snbt",
+      "hash": "51f8de3fa7d01525f29317ee5691c4c1cf780bb2"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_1.snbt",
+      "hash": "666995bab672f39eaa93c1ee44e5571532d8d5e1"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_2.snbt",
+      "hash": "8fe0152abe46206abc44d338341d81df9f0637f5"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_3.snbt",
+      "hash": "53216c1bd9c44be9b3a8207d221bf9e1f786a171"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_4.snbt",
+      "hash": "bb961202cbaef7770f90b88bccb608e0b1ac0b78"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_4b.snbt",
+      "hash": "44c437cc96e2c08db901f6b9bb5c81e812e243c8"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/stage_5.snbt",
+      "hash": "3cb5ae9a27fd52966c84023d7776650b99b8be67"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/welcome.snbt",
+      "hash": "22aea1495d6e50a3be0616265ea9f45d6d60c8b3"
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "hash": "1ed33517db3e622c9eeec7e4c508f2053478929e"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "hash": "74a9b473564cb174e363024be0eae6637aa3e622"
+    },
+    {
+      "path": "config/grapplemod.toml",
+      "hash": "bb40fd8d66ded973ccefe9274b9f7cbe0092e3d9"
+    },
+    {
+      "path": "config/ias.json",
+      "hash": "93bdb9f1bf38eb74357bd89e18bfc978e9160b5c"
+    },
+    {
+      "path": "config/ibeeditor-client.json",
+      "hash": "65b0507fed1cebc32d3d7d77691ead2acbdf1337"
+    },
+    {
+      "path": "config/ibeeditor-common.json",
+      "hash": "a86bb6fcdc8e3fe9df4b580395dc56966fd56b15"
+    },
+    {
+      "path": "config/iceandfire/amethyst_gen_biomes.json",
+      "hash": "153697cb32a9d03329899a78bad032f9c59d2dd4"
+    },
+    {
+      "path": "config/iceandfire/amphithere_biomes.json",
+      "hash": "2d88b7aeac52532167a890ea215e33460cb0ac5e"
+    },
+    {
+      "path": "config/iceandfire/cockatrice_biomes.json",
+      "hash": "153697cb32a9d03329899a78bad032f9c59d2dd4"
+    },
+    {
+      "path": "config/iceandfire/cyclops_cave_biomes.json",
+      "hash": "8bb08234d20d792d9e9059a3d13bb2a692343fc3"
+    },
+    {
+      "path": "config/iceandfire/deathworm_biomes.json",
+      "hash": "b9eefb4f5c8a8faf270acaf3e9c0a800ae26e8a4"
+    },
+    {
+      "path": "config/iceandfire/desert_myrmex_biomes.json",
+      "hash": "b9eefb4f5c8a8faf270acaf3e9c0a800ae26e8a4"
+    },
+    {
+      "path": "config/iceandfire/fire_dragon_biomes.json",
+      "hash": "a1d65d69113589c5593cce795af8464f87af984c"
+    },
+    {
+      "path": "config/iceandfire/fire_dragon_skeleton_biomes.json",
+      "hash": "b9eefb4f5c8a8faf270acaf3e9c0a800ae26e8a4"
+    },
+    {
+      "path": "config/iceandfire/fire_lily_biomes.json",
+      "hash": "aebe89588af2e0712a6542d8c9314b46b2559e31"
+    },
+    {
+      "path": "config/iceandfire/forest_troll_biomes.json",
+      "hash": "c4c29aa91f25e856a6535ce49f3a0f8587f78883"
+    },
+    {
+      "path": "config/iceandfire/gorgon_temple_biomes.json",
+      "hash": "8bb08234d20d792d9e9059a3d13bb2a692343fc3"
+    },
+    {
+      "path": "config/iceandfire/graveyard_biomes.json",
+      "hash": "ce857d7e38d74d94e664d9086d9a06fd4de92bb1"
+    },
+    {
+      "path": "config/iceandfire/hippocampus_biomes.json",
+      "hash": "a832e14e5a4377900f04e2e313729afc5367323c"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_biomes.json",
+      "hash": "52cb95e9880abc764c7ca73310d5021a65b282ba"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_black_biomes.json",
+      "hash": "a60d8b7c6fa4493a82cc39c068326849e13df012"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_brown_biomes.json",
+      "hash": "35c4c282f627253b00b4d3156064be920e02aabb"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_chestnut_biomes.json",
+      "hash": "cf415bd321269707229b48236d32ec2eeba9eb60"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_creamy_biomes.json",
+      "hash": "56059f98beb097bf8f007fc85669e14c999bb1c5"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_dark_brown_biomes.json",
+      "hash": "84fd1b3677ba82b39e95a7e9195a9cdb38daa259"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_gray_biomes.json",
+      "hash": "068ef21efc8b973c3d3cb42337d1c1212e8e311b"
+    },
+    {
+      "path": "config/iceandfire/hippogryph_white_biomes.json",
+      "hash": "91c0d5c56415cf36913e6d311fbc2413a0b9624e"
+    },
+    {
+      "path": "config/iceandfire/hydra_cave_biomes.json",
+      "hash": "107ac04498916790e2b8b0fc217fc2e7f5768500"
+    },
+    {
+      "path": "config/iceandfire/ice_dragon_biomes.json",
+      "hash": "5076821fd935c1f852cd9e592f21f8501b426705"
+    },
+    {
+      "path": "config/iceandfire/ice_dragon_skeleton_biomes.json",
+      "hash": "c7f85574c4714e34726b0fef595bb9fbe0523208"
+    },
+    {
+      "path": "config/iceandfire/ice_lily_biomes.json",
+      "hash": "c7f85574c4714e34726b0fef595bb9fbe0523208"
+    },
+    {
+      "path": "config/iceandfire/jungle_myrmex_biomes.json",
+      "hash": "2d88b7aeac52532167a890ea215e33460cb0ac5e"
+    },
+    {
+      "path": "config/iceandfire/lightning_dragon_biomes.json",
+      "hash": "857899b97c69b4533037333b8d49d22e46168ee2"
+    },
+    {
+      "path": "config/iceandfire/lightning_dragon_skeleton_biomes.json",
+      "hash": "153697cb32a9d03329899a78bad032f9c59d2dd4"
+    },
+    {
+      "path": "config/iceandfire/lightning_lily_biomes.json",
+      "hash": "153697cb32a9d03329899a78bad032f9c59d2dd4"
+    },
+    {
+      "path": "config/iceandfire/mausoleum_biomes.json",
+      "hash": "c7f85574c4714e34726b0fef595bb9fbe0523208"
+    },
+    {
+      "path": "config/iceandfire/mountain_troll_biomes.json",
+      "hash": "35c4c282f627253b00b4d3156064be920e02aabb"
+    },
+    {
+      "path": "config/iceandfire/ore_gen_biomes.json",
+      "hash": "9cd69a3544f8667ee1b1085857bc361fd605ff89"
+    },
+    {
+      "path": "config/iceandfire/pixie_village_biomes.json",
+      "hash": "705c4245a37bc33bf152e448bd115ce3b872582f"
+    },
+    {
+      "path": "config/iceandfire/sapphire_gen_biomes.json",
+      "hash": "c7f85574c4714e34726b0fef595bb9fbe0523208"
+    },
+    {
+      "path": "config/iceandfire/sea_serpent_biomes.json",
+      "hash": "a832e14e5a4377900f04e2e313729afc5367323c"
+    },
+    {
+      "path": "config/iceandfire/siren_biomes.json",
+      "hash": "a832e14e5a4377900f04e2e313729afc5367323c"
+    },
+    {
+      "path": "config/iceandfire/snowy_troll_biomes.json",
+      "hash": "f22d93050111d476f8acf9f76493f6ef711063c4"
+    },
+    {
+      "path": "config/iceandfire/stymphalian_bird_biomes.json",
+      "hash": "107ac04498916790e2b8b0fc217fc2e7f5768500"
+    },
+    {
+      "path": "config/iceandfire/wandering_cyclops_biomes.json",
+      "hash": "ef474b4f12ad8d6f6946893c1a2ae3beec7bff02"
+    },
+    {
+      "path": "config/iceandfire-client.toml",
+      "hash": "0166034ada5cc38d70373260aafb356e8c51d3e1"
+    },
+    {
+      "path": "config/iceandfire-common.toml",
+      "hash": "9df4b83f341f7a11c9c3f68145c55a9d8ec82a4c"
+    },
+    {
+      "path": "config/ichunutil/themes/aztec.json",
+      "hash": "05e13319ec5cc7e9417a7185c52221e78defea16"
+    },
+    {
+      "path": "config/ichunutil/themes/blue\u0026black.json",
+      "hash": "7d02334f4b33a9748b67b56fa04cfe1492680ebb"
+    },
+    {
+      "path": "config/ichunutil/themes/blue\u0026orange.json",
+      "hash": "a3d4519e0c8fbbcdef0bba85342e4033055ba6f7"
+    },
+    {
+      "path": "config/ichunutil/themes/default.json",
+      "hash": "e1ecf30175ec4a7fffdcca9e9468738f1ec7916c"
+    },
+    {
+      "path": "config/ichunutil/themes/grassgreen.json",
+      "hash": "10edb94928b3df97d0be32c6131f6d14a87e0380"
+    },
+    {
+      "path": "config/ichunutil/themes/green\u0026black.json",
+      "hash": "85564a232e1663f2313c3df917378f7db2f5368a"
+    },
+    {
+      "path": "config/ichunutil/themes/lazygray.json",
+      "hash": "845370c8798b59d78ff0a53912dff9f05f23554e"
+    },
+    {
+      "path": "config/ichunutil/themes/monogeneric.json",
+      "hash": "2c63c2964c22175de42c8cccbfe7f936331bc7af"
+    },
+    {
+      "path": "config/ichunutil/themes/nightblack.json",
+      "hash": "2ae4adcda97777a98071608f8d2bfebeec7a12d3"
+    },
+    {
+      "path": "config/ichunutil/themes/red\u0026black.json",
+      "hash": "3d7d52d7e4456633724c928d6f5b485083f1dabd"
+    },
+    {
+      "path": "config/ichunutil/themes/skyblue.json",
+      "hash": "bd23c673d8c018169bc3798e0392b09726f4f074"
+    },
+    {
+      "path": "config/ichunutil/themes/whitelight.json",
+      "hash": "ead6fd52f7e14cac368a70db299329a4a4c52f31"
+    },
+    {
+      "path": "config/ichunutil.toml",
+      "hash": "64e3a743f3f6dc08be55616e05d9bc2cc348fc31"
+    },
+    {
+      "path": "config/improvedbackpacks-common.toml",
+      "hash": "9a0a36735a08f955a4cc2197fd4c47d8a55c45ad"
+    },
+    {
+      "path": "config/infinitylib/config-common.toml",
+      "hash": "3f89b4dbaabcc65623567e10d3e1c548d6e1f201"
+    },
+    {
+      "path": "config/ingameime.json",
+      "hash": "e5b59d29657bc4ab494295df35c00da4b6e817f4"
+    },
+    {
+      "path": "config/jade-common.toml",
+      "hash": "b38a08aa3c2b464cc07d15432359c4d5b52e94a6"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "91df2ce24bf510d05fdd6b8d6f7284a936b6e2e0"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "a1066e8ac3192428126c8b9e7f600f216f77ebd9"
+    },
+    {
+      "path": "config/jei/bookmarks.ini",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "e21f5e92992d708bf82feeacbbee604827895202"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "a023f8c85637a26c5d040123f178f5a6786bba47"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "c5ab8e1cf127357a079cfdbef3430ba8f45b5e66"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "442a83239b3cfafc9fbfeb80e6640e5b3dc72718"
+    },
+    {
+      "path": "config/knightly-armory_epicfight.toml",
+      "hash": "2437bb125ddf25521c90655740367ae2fdcc8c30"
+    },
+    {
+      "path": "config/libvulpes.toml",
+      "hash": "1a73f1a7d2b8d3b77170739363cab1f98c6b1118"
+    },
+    {
+      "path": "config/lootr-common.toml",
+      "hash": "d31ebe366c7529f0ac6d3cc1f60c140150977d0d"
+    },
+    {
+      "path": "config/magicfeather-common.toml",
+      "hash": "5cc179d0c37c4d136b0c972b85bb1d96ab31eae4"
+    },
+    {
+      "path": "config/mantle-client.toml",
+      "hash": "66d378414bfe33cc70cc4e5c364708112c39553a"
+    },
+    {
+      "path": "config/moreminecartsconfig.toml",
+      "hash": "8850ead04f8eba4bf02f8045ba6df01a25820fa1"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "hash": "f452d85364f221ce0752ac26bfd043bc1069bbf2"
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "hash": "ebe43541f8704e4ea430e49eb68c70b83e38716d"
+    },
+    {
+      "path": "config/neat-client.toml",
+      "hash": "72467f86b3b7b7cfa12be05652c8f797ecd472dd"
+    },
+    {
+      "path": "config/occultism-client.toml",
+      "hash": "af8058dc3ffc86dcb9076f05de6bd509e5886eb1"
+    },
+    {
+      "path": "config/occultism-common.toml",
+      "hash": "fe8b4fc907de208664278a5ef7e0a3ebfee12832"
+    },
+    {
+      "path": "config/openloader-common.toml",
+      "hash": "0f79141fcce6b2bd0f07067c5118b418ab1dbfa9"
+    },
+    {
+      "path": "config/oretweaker/backup/OreTweaker.json",
+      "hash": "a25231a5b07dca1624e79dc9c0286d4650736665"
+    },
+    {
+      "path": "config/oretweaker/data/apatite_ore.json",
+      "hash": "e58948c758a89dd2356b5e42dd8fb87882babe1b"
+    },
+    {
+      "path": "config/oretweaker/data/arcane_crystal_ore.json",
+      "hash": "1c93a0fc3f301f4ceb9c6c700f08309e99cf4ac2"
+    },
+    {
+      "path": "config/oretweaker/data/aridrock_redstone_ore.json",
+      "hash": "8db2225c7d647d0d646574c7d02bb577c842aa41"
+    },
+    {
+      "path": "config/oretweaker/data/aridrock_silver_ore.json",
+      "hash": "d62a39f1bdb69616ef5506f04c747b2e0b4bac6b"
+    },
+    {
+      "path": "config/oretweaker/data/basalt.json",
+      "hash": "742ef2679e56e5b06e1243f35d95be3cc3bee469"
+    },
+    {
+      "path": "config/oretweaker/data/cinnabar_ore.json",
+      "hash": "893c4dfc96dc19bca42f9339587089631c546ab5"
+    },
+    {
+      "path": "config/oretweaker/data/emerald_ore.json",
+      "hash": "48d0ce2d775152251ef4cccf7f898c9bef885f01"
+    },
+    {
+      "path": "config/oretweaker/data/lead_ore.json",
+      "hash": "48a28e9bf6e04668867e81c5280271e9bf273705"
+    },
+    {
+      "path": "config/oretweaker/data/limestone.json",
+      "hash": "459a21e5234e417d8b7087ec6472530b536be460"
+    },
+    {
+      "path": "config/oretweaker/data/limestone_redstone_ore.json",
+      "hash": "807cf3cf2ca70fce7fc59b257413e72103ccae02"
+    },
+    {
+      "path": "config/oretweaker/data/limestone_silver_ore.json",
+      "hash": "16ff9416931804979af86ca9d080d8b7c659d9b2"
+    },
+    {
+      "path": "config/oretweaker/data/marble.json",
+      "hash": "23d5e8ad32bcfe542c6bc4929306196e314eb7a2"
+    },
+    {
+      "path": "config/oretweaker/data/nickel_ore.json",
+      "hash": "e2f8634b6314930f1d194553a43fc2f3ef902e24"
+    },
+    {
+      "path": "config/oretweaker/data/niter_ore.json",
+      "hash": "7d4b06f20a2a107b31577f8dd103306171a7dae7"
+    },
+    {
+      "path": "config/oretweaker/data/quartz_ore.json",
+      "hash": "62202ed5f5f008e8449ea45192ab15be54a6b695"
+    },
+    {
+      "path": "config/oretweaker/data/randomium_ore.json",
+      "hash": "b90495721d79d4e3c507c7e4941a4f75a88e7e6f"
+    },
+    {
+      "path": "config/oretweaker/data/redstone_ore.json",
+      "hash": "8b646074f5f4634984b0c77e48b7d26aba2fdce0"
+    },
+    {
+      "path": "config/oretweaker/data/ruby_ore.json",
+      "hash": "89288b3d476d509862c967a4b1b27d3fc3abe1d6"
+    },
+    {
+      "path": "config/oretweaker/data/sapphire_ore.json",
+      "hash": "5291d5c530a1b39374eca0bf1efa5f9fcb2bf6f0"
+    },
+    {
+      "path": "config/oretweaker/data/silver_ore.json",
+      "hash": "cf751c2fcd8390b4fb720cb9ca2552fd8dad61f1"
+    },
+    {
+      "path": "config/oretweaker/data/xpetrified_ore.json",
+      "hash": "2612d4416f21cb51700b5c00eb5a9c8218e6e0e0"
+    },
+    {
+      "path": "config/oretweaker/Info.txt",
+      "hash": "fade6283f9730005801801b36c7c5ae41ef18da8"
+    },
+    {
+      "path": "config/oretweaker/OreTweaker.toml",
+      "hash": "18b8743300e8d3de4c544cc5b64b0ec319de5d5d"
+    },
+    {
+      "path": "config/oretweaker/templates/collectives/default.json",
+      "hash": "8396d0d62503b6a620f407cc2bc85bc1add52843"
+    },
+    {
+      "path": "config/oretweaker/templates/collectives/default_nether.json",
+      "hash": "13dfcb46c5eb4d36cbd4080f468e1abeacfaf0ee"
+    },
+    {
+      "path": "config/oretweaker/templates/collectives/default_overworld.json",
+      "hash": "0ed3c527d7f2665c1610e62de6711ee3c2008b00"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/ancient_debris.json",
+      "hash": "c92776e1458279a46f12a7c85ccfaa65afaa71c9"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/andesite.json",
+      "hash": "2ddc7092fa5ebfaa66805b3400c42a260f4dc3a4"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/blackstone.json",
+      "hash": "a5e02e7b280ecc6c39535b821b9b605f51194839"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/coal_ore.json",
+      "hash": "529d4315da7bdd403270e143781eafdd4de3373c"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/diamond_ore.json",
+      "hash": "1027f0d5a3d6a1d7aa3a4fc5376e81f21a35dc2b"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/diorite.json",
+      "hash": "a75dbe5e78e6053dac09207a959113b2b2bcf308"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/dirt.json",
+      "hash": "1962761d55da79cdbf4725767bdef6010d76adc6"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/emerald_ore.json",
+      "hash": "45935ecef88a400905d7a6da4521c7ced1a275d5"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/gold_ore.json",
+      "hash": "70e8fc94d3f2b98d7a375dfbab5fd3f79858a3e1"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/granite.json",
+      "hash": "ec74c295c2644b30f11c176d8139668fb9691585"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/gravel.json",
+      "hash": "3398983656f7045362a3ed1051504e1ef4bb7315"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/infested_stone.json",
+      "hash": "62028a9cdb24a0563ae8023c8aeb9ea5363a3042"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/iron_ore.json",
+      "hash": "96e7e6877307446a66c02b7bc9d5e7fc58cb0421"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/lapis_ore.json",
+      "hash": "60c7d4312d6f655a7a451a49faba4302e42cb8de"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/magma_block.json",
+      "hash": "5a42e867eac05525fdf62bd40b3946d9382cbd51"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/nether_gold_ore.json",
+      "hash": "616aafef95cecbf54da27208e5d7a80fbc69e791"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/nether_quartz_ore.json",
+      "hash": "4050cdd1faef91323af468d52ea84bd4d87ee50c"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/redstone_ore.json",
+      "hash": "c06db3ed0e4a4f5b51c5702fc210b3abfd54540b"
+    },
+    {
+      "path": "config/oretweaker/templates/defaults/soul_sand.json",
+      "hash": "2a0678788b52253b1204a5267c0d309ed2ed64d6"
+    },
+    {
+      "path": "config/oretweaker/templates/other/fuck_silverfish.json",
+      "hash": "e61235d45fa091a8ec048677da0838b4149dfb89"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_everything.json",
+      "hash": "1750f433bf5bf6d43502fb62752f5c664bcc12d4"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_everything_nether.json",
+      "hash": "1b38fe3acd11061a7093ed2e0a8791c8d187691c"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_everything_overworld.json",
+      "hash": "d1ff55f16964d1238ddeff8a3409b4863fb74e2f"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_igneous_rocks.json",
+      "hash": "89dc0b9bf460403e901af73cc1ba8fbd46d170eb"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_ores.json",
+      "hash": "b66cd6235479ccf810e8b798e90877b28311b0b1"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_ores_nether.json",
+      "hash": "c58d303a70921f2d1de4005184177f9c2e9cccc4"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_ores_overworld.json",
+      "hash": "a7b57c0c15a0856d2999b5a0e899d19823c1d9fc"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_stones.json",
+      "hash": "25dc028e99c09b87742c13d486e657a79f24567d"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_stones_nether.json",
+      "hash": "2b3f072cdd9d67206dd1af3e250bead657055c4a"
+    },
+    {
+      "path": "config/oretweaker/templates/remove/remove_stones_overworld.json",
+      "hash": "25dc028e99c09b87742c13d486e657a79f24567d"
+    },
+    {
+      "path": "config/paintings-client.toml",
+      "hash": "fad66b307d46ed5b89ff32ad88345d4bda340d91"
+    },
+    {
+      "path": "config/patchouli-client-1.toml.bak",
+      "hash": "95865c1fba5159525364fd7ec2ba7623f1a2d287"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "95865c1fba5159525364fd7ec2ba7623f1a2d287"
+    },
+    {
+      "path": "config/pathtodirt-common.toml",
+      "hash": "778de18779c091351583751b95668c37d3fc3917"
+    },
+    {
+      "path": "config/pipez-client.toml",
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "config/ponderjs-client.toml",
+      "hash": "31a4e55be516d2e6cfbabdfcaaca23127132feb1"
+    },
+    {
+      "path": "config/portality/modules.toml",
+      "hash": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+    },
+    {
+      "path": "config/portality/portality-1.toml.bak",
+      "hash": "59ec1d5835beaa67fd8a88123e4778eec84f85bf"
+    },
+    {
+      "path": "config/portality/portality.toml",
+      "hash": "05156b206de4119c3dbf6468443f16dbfdb42c33"
+    },
+    {
+      "path": "config/PregenConfig.toml",
+      "hash": "c204a28eb55a4937563d571eed5df3eb40b1828a"
+    },
+    {
+      "path": "config/ProjectRed.cfg",
+      "hash": "4a3df22c1a58967675d9336cd3fc4b96f721e02f"
+    },
+    {
+      "path": "config/randomium-common.toml",
+      "hash": "fd75e0fe36dc01a084fa75ba801e8b0ef729ad17"
+    },
+    {
+      "path": "config/randompatches.toml",
+      "hash": "32050fb8f1328b7ce3ae0f82deb50ee919db1d5b"
+    },
+    {
+      "path": "config/repurposed_structures-forge/bastions.toml",
+      "hash": "228f3d124018e6e2d82bf517d1e7eaab7c24adb0"
+    },
+    {
+      "path": "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5",
+      "hash": "6da53bc31c17727c24c1c4f9e12f041132488d94"
+    },
+    {
+      "path": "config/repurposed_structures-forge/cities.toml",
+      "hash": "c79706ff7f62dd750f8c22d1224e3b25262c43f3"
+    },
+    {
+      "path": "config/repurposed_structures-forge/dungeons-1.toml.bak",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/repurposed_structures-forge/dungeons.toml",
+      "hash": "0538d362b19b69fda8e59ecba6a3f7121bc81cb5"
+    },
+    {
+      "path": "config/repurposed_structures-forge/fortresses.toml",
+      "hash": "cbac5e75e1cb66840a475987cb95c0e6180e1e42"
+    },
+    {
+      "path": "config/repurposed_structures-forge/igloos-1.toml.bak",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/repurposed_structures-forge/igloos.toml",
+      "hash": "3a78c9eb566243d6182f652413c1407dba6daca2"
+    },
+    {
+      "path": "config/repurposed_structures-forge/mansions.toml",
+      "hash": "43a0cf785dfaced65862540922462d7780cb0767"
+    },
+    {
+      "path": "config/repurposed_structures-forge/mineshafts.toml",
+      "hash": "7fbfe5ee286292160ac958489e611effecacd09c"
+    },
+    {
+      "path": "config/repurposed_structures-forge/modded_loot.toml",
+      "hash": "b8262f1faaea846be5197cd6b15c9e2de56dc134"
+    },
+    {
+      "path": "config/repurposed_structures-forge/natural_mob_spawning_configs.json5",
+      "hash": "ad78d4628d0ec26593ef0ba35b751c20cc1fced9"
+    },
+    {
+      "path": "config/repurposed_structures-forge/outposts.toml",
+      "hash": "f7df6bbf8ac37acbc659464ee0a622cf2344c3ed"
+    },
+    {
+      "path": "config/repurposed_structures-forge/pyramids.toml",
+      "hash": "1303062ac47ab45f5145340980a02b4d11cbb470"
+    },
+    {
+      "path": "config/repurposed_structures-forge/ruined_portals.toml",
+      "hash": "0b881cbb0bdbefaf887b2be50f82034dcf7911de"
+    },
+    {
+      "path": "config/repurposed_structures-forge/ruins.toml",
+      "hash": "e83363436feece0bd568a67de11f4816125a9535"
+    },
+    {
+      "path": "config/repurposed_structures-forge/shipwrecks.toml",
+      "hash": "b2bea366b370d5ace41f50fabb8d97fdc6327f2c"
+    },
+    {
+      "path": "config/repurposed_structures-forge/strongholds.toml",
+      "hash": "3340583676595c7caaa4239472a81085e424900b"
+    },
+    {
+      "path": "config/repurposed_structures-forge/temples.toml",
+      "hash": "b744ab898912ab71bfe1c4c2701a97eead77b38c"
+    },
+    {
+      "path": "config/repurposed_structures-forge/villages.toml",
+      "hash": "f11a2f39c9090bb3d548ca3405107a749757919e"
+    },
+    {
+      "path": "config/repurposed_structures-forge/wells.toml",
+      "hash": "8ae7d4c28a8be3105df2d1305216710ba48dc11b"
+    },
+    {
+      "path": "config/repurposed_structures-forge/witch_huts.toml",
+      "hash": "bd517ed48b86b50474aa7075c4b3c43698bc572f"
+    },
+    {
+      "path": "config/rubidium-mixins.properties",
+      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98"
+    },
+    {
+      "path": "config/rubidium-options.json",
+      "hash": "39cd0167b853c6967e2e08b4132279dd72d6be03"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "config/siege-machines-specs-1.toml.bak",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/siege-machines-specs-2.toml.bak",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/siege-machines-specs-3.toml.bak",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/siege-machines-specs-4.toml.bak",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/siege-machines-specs-5.toml.bak",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/siege-machines-specs.toml",
+      "hash": "0a5ed61b338a301e43305f0087079839a2c9d8f3"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "5b6c2946d88d3510c3fd971b366e6e1cdbae6e9c"
+    },
+    {
+      "path": "config/smallships-common.toml",
+      "hash": "873f9934619f5ed367d0f472a2e20c12cd3bdbbf"
+    },
+    {
+      "path": "config/smoothboot.json",
+      "hash": "dec98b9e255968a98c54f1e3d806566f952a4502"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "57534e758469c207664be9fbf5f6e16d323ef6ee"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/soundfilters-client.toml",
+      "hash": "c2535659698e44ea6d77e7bbbb67a015850c6140"
+    },
+    {
+      "path": "config/spark/activity.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/spartanweaponry-client.toml",
+      "hash": "3c0a30e0bddc8b2fa7f4180b5c094287b16042d6"
+    },
+    {
+      "path": "config/spartanweaponry-common-1.toml.bak",
+      "hash": "79684beaba6dac96b7e587ce9e20d4cea50a66b8"
+    },
+    {
+      "path": "config/spartanweaponry-common.toml",
+      "hash": "1ea4521922b6ded4d3fd066296b6631067dae8da"
+    },
+    {
+      "path": "config/storagedrawers-client.toml",
+      "hash": "a76e65b2d757d114ad5ad62436b2887596d34553"
+    },
+    {
+      "path": "config/storagedrawers-common.toml",
+      "hash": "bd7fd25b89021dc2f2e123012db334f9378fb760"
+    },
+    {
+      "path": "config/strawgolem-common.toml",
+      "hash": "1df8ce59ef0690a9f2ee4fb0fc8f93722c31ad08"
+    },
+    {
+      "path": "config/structurescompass-client-1.toml.bak",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/structurescompass-client.toml",
+      "hash": "40ae6702656636eb6c775ce69b1489698406c19f"
+    },
+    {
+      "path": "config/structurescompass-common.toml",
+      "hash": "c7b39cbc2a9e3ec48199f43c9d908539b9b652f8"
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "3465d01a307618878156866e256d8dcd05619df8"
+    },
+    {
+      "path": "config/supplementaries-common-1.toml.bak",
+      "hash": "1d4e9004343ebe412ec1a98fbba2abb50d6d4b32"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "0cf4286fe7941bd9845a4a192e334c799ce6bf81"
+    },
+    {
+      "path": "config/supplementaries-registry-1.toml.bak",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/supplementaries-registry.toml",
+      "hash": "a8d9bc5d32d2705c9f46c3cd1fff8549866cbd4e"
+    },
+    {
+      "path": "config/tconstruct-client.toml",
+      "hash": "586fbce0cb8c31b82bdae0875b7d52a06f23055a"
+    },
+    {
+      "path": "config/tconstruct-common.toml",
+      "hash": "54d66a30fe500386fb44ebf593fbd6818c87ff91"
+    },
+    {
+      "path": "config/thermal-client.toml",
+      "hash": "0e4fe8453bd0e5771e70e8348b6f5b8beba7a3f6"
+    },
+    {
+      "path": "config/titanium/modules.toml",
+      "hash": "c55b2750105988e0b648095e94a1427dca2e7b89"
+    },
+    {
+      "path": "config/titanium/resources.toml",
+      "hash": "56868dd52ca8f28c7faaa30ef8c82abd3a0d8f0c"
+    },
+    {
+      "path": "config/titanium/titanium-tags.toml",
+      "hash": "0b4b21965ac938748b8479f140fe05cca0305c27"
+    },
+    {
+      "path": "config/titanium/titanium.toml",
+      "hash": "a8a176c8004faf4a0aeb51b1998fc6d23a131691"
+    },
+    {
+      "path": "config/torchmaster.toml",
+      "hash": "d4ca81440552b98571dfa92080b8881d99c55f75"
+    },
+    {
+      "path": "config/ultimatestack-common.toml",
+      "hash": "c81a1e036b6005c107d39a79c57ea53a2320859e"
+    },
+    {
+      "path": "config/valhelsia_core-client.toml",
+      "hash": "ec68cb2f36b94842963452972ee057386625d283"
+    },
+    {
+      "path": "config/waila/waila.json",
+      "hash": "12d56f6cf3595e89839c74426c646e70b5af0790"
+    },
+    {
+      "path": "config/waila/waila_plugins.json",
+      "hash": "63b73bf6beb1c395822f68ed16eff9c35de782c6"
+    },
+    {
+      "path": "config/waterstrainer/waterstrainer.toml",
+      "hash": "2e66cdf8c880f1604b9fbc7130847d8254ba2def"
+    },
+    {
+      "path": "config/waterstrainer/waterstrainer_loottables.txt",
+      "hash": "ced193695859b4c3a06080d9d0006505b9bb35d8"
+    },
+    {
+      "path": "config/waveycapes.json",
+      "hash": "dd38a1c2404a73309d5feb3fdb9aefe161a7d3bf"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "89af4a188fcb058a1e152c4a4094838b0dd974fb"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "d6ce6f95d74d0ac92d08e4fa4a026c70bcbe26ce"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "a3fbb163cc26df741519e9bc49779b1d03e1353c"
+    },
+    {
+      "path": "config/xreliquary-client.toml",
+      "hash": "527ddfcf2acd589f12229ba4f0ef6547e53eb1f2"
+    },
+    {
+      "path": "config/xreliquary-common.toml",
+      "hash": "94adb9f4162a4ae9c5dc114d215a8ff5cc08ef1e"
+    },
+    {
+      "path": "defaultconfigs/create-server.toml",
+      "hash": "55aa7989b4efed1789ba58fd32d1f9d77f7f9c5e"
+    },
+    {
+      "path": "defaultconfigs/occultism-server.toml",
+      "hash": "8e7a034f0fbb032a847fab925b9844acb0cbea5a"
+    },
+    {
+      "path": "defaultconfigs/pipez-server.toml",
+      "hash": "e972a008fff35b17ccc1568809791b2776f06129"
+    },
+    {
+      "path": "defaultconfigs/thermal-server.toml",
+      "hash": "87229c338cb598629535d570a20bcd93d582b237"
+    },
+    {
+      "path": "foxlaunch-data/install.dat",
+      "hash": "7b1930391d2352d5d6e85c131f1c0e7d942a9559"
+    },
+    {
+      "path": "foxlaunch-data/minecraft_server.1.16.5.jar",
+      "hash": "1b557e7b033b583cd9f66746b7a9ab1ec1673ced"
+    },
+    {
+      "path": "foxlaunch-data/server.lzma",
+      "hash": "4c04b712cd939dc06c49b39ea22cd1519946bda1"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "1fd94415444f1dc40aadf13977187207c29537e7"
+    },
+    {
+      "path": "knownkeys.txt",
+      "hash": "61f75a8bc5191ab433302b0176c52921ae10d705"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/en_us.json",
+      "hash": "3dbd0a28528cc971d576c7a6dd2bda7edda4042f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/accellerator.json",
+      "hash": "35a2d2a103f76069d88b2a8ebf0abfe710ccf89d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/andesite_machine.json",
+      "hash": "ecda2b60ecf45bc2ccabd13f1f3fce663a0de616"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/brass_machine.json",
+      "hash": "c2548464ad1fbf9a14b6e95328c2a7a818d64fba"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/catalyst.json",
+      "hash": "f3569aa4293a15250b0890ffba9b265d286675b0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/chaos_catalyst.json",
+      "hash": "12a2261ce5e719bbaa0b4214722722095bec2599"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/copper_machine.json",
+      "hash": "f6081b674204806b8f4b36fe7b8bbb9aa16a0f2b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/enderium_casing.json",
+      "hash": "1dd49920a80560099bf7c4b212a696360c7483ac"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/enderium_machine.json",
+      "hash": "d339589a6fc86212e992a45e523da62709a07757"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/machine.json",
+      "hash": "916926ae781028abe0d07c1a7a83ba8b7143eb83"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/mundane_substrate.json",
+      "hash": "936675311a4794f6aad9850acacf7ecc09f72121"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/ponder_laser_lamp.json",
+      "hash": "8a19a822de8cf6b1c25ebf15fb89415caf885976"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/ponder_laser_lamp_on.json",
+      "hash": "d250b61ca1aec7ec8853358e5fec21939da41616"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/substrate.json",
+      "hash": "9c071c41f1fe82965649b4f103ab71beab7bd3e4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/zinc_machine.json",
+      "hash": "3670ba4a6db1837b65034b53dd2e25ee8e09424e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/item/computation_matrix.json",
+      "hash": "8e710dab5114e61d5893a27eff3765d916f9dc83"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/item/profession_card.json",
+      "hash": "8b050e53c913df1e6ed550e3803667bd7cbaf5cb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/item/trade_card.json",
+      "hash": "9b87387610737bfd534b8d9d0752657cbd9c6ae3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/ponder/laser_alchemy.nbt",
+      "hash": "776e93598ed1fecd26f770f192de80a220998ccb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/ponder/rocket_scene.nbt",
+      "hash": "0aabe3f0f620d09a1130640ee7a1ce2e909da646"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/accellerator_glass.png",
+      "hash": "d9b4cf322126267fb4283a04fe870ac1cc0fce5a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/cage_lamp.png",
+      "hash": "1e56651a00afebe9f22dbfac2847f43f9a80d2be"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/catalyst_glass.png",
+      "hash": "d729428fdddf5c13ccf5c19633aabe6a18852af4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/chaos_glass.png",
+      "hash": "f0b2558f460635af3a4a82ac79ed94d44145c4f5"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix.png",
+      "hash": "f9b03b0aabcd8387a18664f3beea88ad8cb2b8f0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix_2.png",
+      "hash": "788ced68d1ce78816f4f557256513b0612320189"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix_2.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing.png",
+      "hash": "94a32de83809b5ce7b086f0101bcffce21111ed1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing.png.mcmeta",
+      "hash": "0baec0d9ecf0efc63da69be9617569c74e3a8db9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_ctm.png",
+      "hash": "37a79f4c2dc96098b26752ac7670f12b09d6905d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top.png",
+      "hash": "43ba502e6f8d55a69196d76fdd4aa1c3fb074132"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top.png.mcmeta",
+      "hash": "8a0a794c60ca09edea2d0e502b34387ca0b6ab87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top_ctm.png",
+      "hash": "102f91c75bf2a026031733fd3c2d6b639b8831af"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_bottom.png",
+      "hash": "69e55658ce36c0c9d24571b6f68607975db03c7e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_inner.png",
+      "hash": "bf1bccf5c7dd6342b1fd606e343d7453575e82b2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_side.png",
+      "hash": "d14319fc68dbd2e359968f35f2d2c6ec5e41a37a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_top.png",
+      "hash": "0b1259cc09a1dbb0e47ba63493208256966cfbaf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing.png",
+      "hash": "1fece9903607306ee3612960c4ce4ba53672d812"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing.png.mcmeta",
+      "hash": "5f57c3eb6279666f3037d11a4b18742de1c50d19"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing_ctm.png",
+      "hash": "dc0b076eeeed5f18844aab067e774094d7ea3e35"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing.png",
+      "hash": "25d6d7cc6bf99bedba19456ec278be240d4923d7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing.png.mcmeta",
+      "hash": "82c362c6e8f36cb6f0e3bd245d02845c9e4404c2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_bottom.png",
+      "hash": "bcf8f39123fd03240c9f56405d360704972ee59e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_ctm.png",
+      "hash": "98b28a192dd6554c0d5690d185916c5ce443cb8a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_top.png",
+      "hash": "2b5f5f31f54491ca88ccd2c35b50af4129f7196d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/mundane_glass.png",
+      "hash": "298d96d5fcac947f1c04a8e5e5e9e3d990f0aade"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/reagent_glass.png",
+      "hash": "5c6aa5a56b459e0864929e96c9a8feb4b40f0f7f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing.png",
+      "hash": "ebddc9a2ee32a139714d82fa4163d5ce67bf8382"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing.png.mcmeta",
+      "hash": "c2c9209aa097f664989f46679460da453de17929"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing_ctm.png",
+      "hash": "37faaa1dfbf47d388f8f5f8cfcbb671860e7332e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_bottom.png",
+      "hash": "fb1213a46c28c1d0dc5821ceaed4c2caac7cdcd0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_inner.png",
+      "hash": "97950dc0f27eaf8dfba52da5fc5d5fa12f5f2a58"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_side.png",
+      "hash": "fcc932ce81e7f2ad706f4e2262be6e59ee8b8ff1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_top.png",
+      "hash": "927dcb78931f1ea8c99c4f5a99db257a11027d3a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png",
+      "hash": "11f806d8493dd9fa4ec847fec694a51fc9ec9689"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png.mcmeta",
+      "hash": "95ab03d03abbef1a4e26de775b8e15f0ca4f0d8a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_still.png",
+      "hash": "290b81ad9a68e0ed14965178c5877a3a78582860"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_flow.png",
+      "hash": "5ddee2519aef984c285a4574557d7aa3b9e56269"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_flow.png.mcmeta",
+      "hash": "4bb0a08dec1ef6e1ea972ab04efbfd9332e3ad4d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_still.png",
+      "hash": "cac40d4d03d513546b5636ea7aa469b24d46337d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_still.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_flow.png",
+      "hash": "52a19f24ceee4fb2b73a0954b95ca489cb2ffb87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_flow.png.mcmeta",
+      "hash": "4bb0a08dec1ef6e1ea972ab04efbfd9332e3ad4d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_still.png",
+      "hash": "90c1fe7fa39abfd5eadc025d962eb5a660add6f2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_still.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/abstruse_mechanism.png",
+      "hash": "8a1dcbbbd8a21871a71cc2b7b9b1d125f28d6900"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/boot_medium.png",
+      "hash": "f9cbfc9d6dfdfcc796ec7c060b9cafe412a01cd1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/calculation_mechanism.png",
+      "hash": "24842948e79b4228d485c12023d3213787957094"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/calculator.png",
+      "hash": "b4aec2194cb3f8b8c26ee53a55af4e43362388df"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/charged_calculator.png",
+      "hash": "0d1ed6294000c247f2aed66333c2b4f37b3a3d74"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/charged_calculator.png.mcmeta",
+      "hash": "2d24053145553ea419acddf134e7514de1f4651f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/chromatic_resonator.png",
+      "hash": "8371088121abf329e4aade316d3f65ec7f1ee307"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/chromatic_resonator.png.mcmeta",
+      "hash": "4d97d0b7f5dbf540e76bde90c0c7da3410561bbb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/circuit_scrap.png",
+      "hash": "5c9c3bd6ca0a48899ab9359b4c736e95e74d5f06"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/coke_chunk.png",
+      "hash": "49bbcaad60f045aafb14446050683f2340a7431a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/creosote_pellet.png",
+      "hash": "4e31c28ca0f7ad1e6531a7068db61c6cb8ad1b17"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/divide.png",
+      "hash": "38f46abad88a1bc275b6f752525e745a92d620a4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/divide_cast.png",
+      "hash": "c42d1707af76eba9e112b761aa0d09d5b93b8cc0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png",
+      "hash": "570614de5b824aba8d2e442642b216209c25790b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png.mcmeta",
+      "hash": "6f5e2575846b91b3d208b59a596c8ec0de2c914f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/eight.png",
+      "hash": "7dda51abe41e200d3aef9ffc742a61b6f66e8af1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/eight_cast.png",
+      "hash": "24aacc7690f02f35e8cb9240fb8e4d41f9704a87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/five.png",
+      "hash": "a064fa3cdc398990dbd1f513cf19e92eac30acbd"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/four.png",
+      "hash": "fe6940b2536c93899e11e873963c74d8f2bfd574"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/ground_slimy_fern.png",
+      "hash": "539ff202cfa2ad8af4f729bda05b4449117a6c0b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_abstruse_mechanism.png",
+      "hash": "9b8d2e438f20e638bc19a49b277a4d46fa31da40"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_calculation_mechanism.png",
+      "hash": "eda26eb56d8ea8c6cede5c98d2d7546eb79dd76b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png",
+      "hash": "53470712ac3746330e93ed0964d646751901f5cf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_coke_chunk.png",
+      "hash": "1c9080523a5727a097234c362e9914eb73563b86"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_engineering_processor.png",
+      "hash": "1d9532eb33cee10ffb92257cb036a0ea06e11219"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_inductive_mechanism.png",
+      "hash": "d8a86642bfe1839ba801747e5ea4ab71768b0d71"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_infernal_mechanism.png",
+      "hash": "c465afddc4b30fcb2517c21deb86c6abf4e2f25d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_kinetic_mechanism.png",
+      "hash": "8522ef7082b6493992c00dc62d7321c59e7824b7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_logic_processor.png",
+      "hash": "abcb42ad6e8ca7a33e8c69f0a82cf749780e09aa"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_sealed_mechanism.png",
+      "hash": "4ea2c950c09adfdefb84c17d59b3da85ceea7567"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/inductive_mechanism.png",
+      "hash": "e79da948a180264d0be519addc12e71890f4e0b1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/infernal_mechanism.png",
+      "hash": "3d0ffcb7ed96a85ba7faaae69f2d12e1587f4d84"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/invar_compound.png",
+      "hash": "52d05436b02b2fc2d8966ac7ca6b64dbbaa97328"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/kinetic_mechanism.png",
+      "hash": "47dd71bb7b39f58de017dd01d0e95461e8b384d6"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/matter_plastics.png",
+      "hash": "03a0c9d7168792d7b9de9c3c1d00c00eff38d9a8"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/minus.png",
+      "hash": "4ec712ba11471ac924202698f9f5853d9ebbf36c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/minus_cast.png",
+      "hash": "b474f8e415300d3d688aa28aa9a681676db76721"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/missingno.png",
+      "hash": "ac687ea864b0e35f5fa9fc935d51e2324d7f0512"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/missingno.png.mcmeta",
+      "hash": "1255c5acd6c8c6affc0cc0bc851a7deaa7064ec2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/multiply.png",
+      "hash": "0ae8b0242d84b64fdc4c8f6c028f4ace47d73a00"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/multiply_cast.png",
+      "hash": "ad7bc509c931883598cc7e27a8daa6d895e66725"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/nickel_compound.png",
+      "hash": "3599c8ec6b48fac49068a1becd84e11501229a56"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/nine.png",
+      "hash": "d81b061c7e021d1f54d694e5b0a0358bf659dbf2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/one.png",
+      "hash": "7ad09a194338a33886277242a1d25416d4d88155"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/pipe_module_tier_1.png",
+      "hash": "9c9c0bc8fa24e22b674feca76694b6c01d5e9259"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/pipe_module_tier_2.png",
+      "hash": "9fe2b049418d17a763ac586511c2b263971ae4de"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/pipe_module_tier_3.png",
+      "hash": "c1e0d76b1b42331a44420412c67e770d3038ae90"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/pipe_module_utility.png",
+      "hash": "14732a54f283818e2d6c405ef9f06ce692d689ac"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/plus.png",
+      "hash": "8ee55cfbfa91759096096f0c7078a18f5da28070"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/plus_cast.png",
+      "hash": "9ee1c5caa83c3539b863be2279c08c3662f83693"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/profession_card_0.png",
+      "hash": "31af09375cff6823eae0e87e7f41965e94b46712"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/profession_card_1.png",
+      "hash": "70482d2493c6baa29fdb23a8977d46368ec4da7d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/profession_card_2.png",
+      "hash": "80e6b8668a4934a833bd854bddaf0f041474dc22"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/purified_sand.png",
+      "hash": "91f2ded3240addd5d2a7e94eedaf7ca806ad3667"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/radiant_coil.png",
+      "hash": "aa542c4c9d1829ecfde77a7015a19d34ab7ef242"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/radiant_sheet.png",
+      "hash": "b71c01dd9b9173be6e92ee5b1e15f7cc57601e95"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/rough_sand.png",
+      "hash": "f1906c75ab94d8b4be6f8dca5a2b038674c244a4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/sand_ball.png",
+      "hash": "080b84c0625cb16d3f9b92891ce21187174fe942"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/sealed_mechanism.png",
+      "hash": "183e351756191a352c5e1ac3d1026922b916b5ea"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/seven.png",
+      "hash": "542f2143379606ee1f46213a789dd269e8fbdadc"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/silicon_compound.png",
+      "hash": "5d4205c8cf2e0a6857ec6af50885db29902a7fc0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/six.png",
+      "hash": "26599eb597aba62d8598ae679ce84f2cc6f797d3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/slimy_fern_leaf.png",
+      "hash": "ab47a354d1bc7c477ce1b748564e5428f2b83c6a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/smoke_mote.png",
+      "hash": "568b45069e0aa790a8a9a998f67f5017fdcb063d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/thermal_cast.png",
+      "hash": "bed91486f2212102426377a36d2e9557ef2ec21a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/three.png",
+      "hash": "c9e903a4fefb6591ab0a73ff03e0ad630a72569d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/three_cast.png",
+      "hash": "66400451531811c2c3540c4f2ce2b029495694ab"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/trade_card_0.png",
+      "hash": "b0bcd7a504c3631f6491b7f3d138d5bb34f26147"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/trade_card_1.png",
+      "hash": "ac0fdf7f0b13073ad23ab29ca0aa8987683e9c0f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/trade_card_2.png",
+      "hash": "9485832fa3a661c584d9975b999fe0c85763b366"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/two.png",
+      "hash": "6af08a5ec9051a4717ec96ce969d53d9b4d3237b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zero.png",
+      "hash": "1c2568246f91fa0848695a9d53b584affc6090d8"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zinc_dust.png",
+      "hash": "03a98472f1e8826fba2d1d99469f29a7d54958b0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zinc_sheet.png",
+      "hash": "bc1be147f4cc4caf48d75f0fbbcb10f33695dde5"
+    },
+    {
+      "path": "kubejs/assets/ponderjs_generated/lang/en_us.json",
+      "hash": "6fd7972e8301ab1792fff6185e624f7eb554bfc1"
+    },
+    {
+      "path": "kubejs/client_scripts/client.js",
+      "hash": "91e76e3796b5770effc8b4acd7a44295d69e3911"
+    },
+    {
+      "path": "kubejs/client_scripts/ponder.js",
+      "hash": "e63e96003fd1e60f7009595344db13922ba2f9fd"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "1140a19fcd494b692676a06c07482c3c6cbfbf19"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "5b5f0a9184cf371d6c87618913de0ccc405cb8ac"
+    },
+    {
+      "path": "kubejs/data/architects_palette/loot_modifiers/wither_skeleton_bones.json",
+      "hash": "6154316ad2c9fa36a70d1834b187b40ef9b515d8"
+    },
+    {
+      "path": "kubejs/data/buddycards/loot_tables/inject/fd_buddybeans.json",
+      "hash": "a2be3298344d56fc40514d7fbde5e76c2265dd4e"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/moon_junk.json",
+      "hash": "2a1e71dae51cbe24f9c640375e23f9710a969e7e"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/moon_treasure.json",
+      "hash": "c901d3734fbad6bf0c50f1831522f55148acdd9b"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/patience_1.json",
+      "hash": "9a331045f8cf1487566527ac2296da05c48c563e"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/patience_2.json",
+      "hash": "f4bf96434a1fb72ecdc1ec3b9596533576567cf6"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/tinker.json",
+      "hash": "8911a0131c5d7a52305379407e9514f74a201953"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/lavastone_slab.json",
+      "hash": "d3a590ba04c65fede6aca7abd28e840f8fdb8964"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/lavastone_stairs.json",
+      "hash": "4473cec4fca91c933df034d56daea03207a70aa9"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone.json",
+      "hash": "372538abcda5c98484003b95ddac2dcec8879cca"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json",
+      "hash": "70fdad0d8d61efa36a6efb6fc78bd477cb12c45a"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_stairs.json",
+      "hash": "3b33d70fb4ab368402f5f2c7943e9641540a0041"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/treasure_pot.json",
+      "hash": "3de35d6eae5d43862bdc8cd5ad0f8cdef87be8d3"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_long.json",
+      "hash": "e16c82bb6e9520009312c176e3bfdc2a584899f3"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json",
+      "hash": "d93651a9ffbb46429cba65a32461d6b4b70d0d97"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json",
+      "hash": "5f3df4b19e31bf016fe033520b707d6d7c7bad78"
+    },
+    {
+      "path": "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_short.json",
+      "hash": "e5c76b5d8bf7d57a89ab94c29b25e46a278f0be6"
+    },
+    {
+      "path": "kubejs/data/forbidden_arcanus/loot_tables/inject/abandoned_mineshaft.json",
+      "hash": "82a39ebed9f461a0a37306a9a26734081cf02786"
+    },
+    {
+      "path": "kubejs/data/occultism/loot_tables/blocks/datura_seed_additions.json",
+      "hash": "ac1b28afc7da0b344af3f4f8f3500ac467f1dbaa"
+    },
+    {
+      "path": "kubejs/exported/tags/blocks.txt",
+      "hash": "bd632d19df6f611a28f266fdd7280c525937dba9"
+    },
+    {
+      "path": "kubejs/exported/tags/enchantments.txt",
+      "hash": "920553f7ee7ed2040010c3bf05aca7d7eb2e7719"
+    },
+    {
+      "path": "kubejs/exported/tags/entity_types.txt",
+      "hash": "fc51c1c3dca0d1d6db38b3e454318e3f88ba1ef7"
+    },
+    {
+      "path": "kubejs/exported/tags/fluids.txt",
+      "hash": "516317327c87d2b7f278ca52bc0a850d1a871ade"
+    },
+    {
+      "path": "kubejs/exported/tags/functions.txt",
+      "hash": "dae6ebd65c246631abc3dad3db3c59f1b12dc234"
+    },
+    {
+      "path": "kubejs/exported/tags/items.txt",
+      "hash": "bc163f7c58965a64f5ea738d3bbf36b246c9f8b3"
+    },
+    {
+      "path": "kubejs/exported/tags/potions.txt",
+      "hash": "920553f7ee7ed2040010c3bf05aca7d7eb2e7719"
+    },
+    {
+      "path": "kubejs/exported/tags/tile_entity_types.txt",
+      "hash": "227f362b7d7cd558e101ac32f241db4b3906cbbb"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "b1ef202a5a370d4f17f7fe1be68dac01868123d7"
+    },
+    {
+      "path": "kubejs/server_scripts/better_dynamo_placement.js",
+      "hash": "8d711dcad0a28ebd00a0b8ef91a1631e3b529834"
+    },
+    {
+      "path": "kubejs/server_scripts/bonkers_chemistry.js",
+      "hash": "f5213c01235d24162c443ddc87b62ab866e58ac0"
+    },
+    {
+      "path": "kubejs/server_scripts/express_mode.js",
+      "hash": "3dc65e4cbdac5fc766fe5a892ba894a1e8a62109"
+    },
+    {
+      "path": "kubejs/server_scripts/loot.js",
+      "hash": "4e1700dc43aab6bac794ba36bf54fdc072840c69"
+    },
+    {
+      "path": "kubejs/server_scripts/quests.js",
+      "hash": "9cf088642a396ca43f42cf385d85bdceea273d82"
+    },
+    {
+      "path": "kubejs/server_scripts/recipes.js",
+      "hash": "60e1f430641de860c1abb70d6b6a74219a5bcdfc"
+    },
+    {
+      "path": "kubejs/startup_scripts/launch.js",
+      "hash": "7d39749e08ae211eed013f187bbb2a3b3da5b1b9"
+    },
+    {
+      "path": "kubejs/startup_scripts/trading.js",
+      "hash": "cde35da676c653547ec3c0d5b40efc5a72d1729e"
+    },
+    {
+      "path": "local/ftbutilities/backups.json",
+      "hash": "962befc5225bd78ebd1cae67bd06f06b4b3ee0a1"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "mods/3dSkinLayers-forge-1.1.0.jar",
+      "hash": "7f7e529371eade9915cf7f727545783127186072"
+    },
+    {
+      "path": "mods/abnormals_core-1.16.5-3.3.0.jar",
+      "hash": "528abeff9d09605015e09d3a26605de3758ed47d"
+    },
+    {
+      "path": "mods/AdvancedRocketry-1.16.5-2.0.0-12-universal.jar",
+      "hash": "e77bc59dba59313af711f2c84be0d0a17486c009"
+    },
+    {
+      "path": "mods/AI-Improvements-1.16.2-0.3.0.jar",
+      "hash": "85c1c798a96bdfec2b823d9e5a4d0d97efbb7c22"
+    },
+    {
+      "path": "mods/antiqueatlas-6.0.1-forge-mc1.16.5.jar",
+      "hash": "e12f209546b7f92128d246f2b5efdc95edce2d96"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.16.x-2.2.0.jar",
+      "hash": "6b2e4d302336bb99e9fc510ecd70d3ba2c49c652"
+    },
+    {
+      "path": "mods/appliedenergistics2-8.4.4.jar",
+      "hash": "8d0f2531a20a228eee7aee13917fc80bc48de159"
+    },
+    {
+      "path": "mods/Aquaculture-1.16.5-2.1.21.jar",
+      "hash": "766b46cf616f5c96eb33893fa99aba520d0758d9"
+    },
+    {
+      "path": "mods/archers_paradox-1.16.5-1.4.0.1.jar",
+      "hash": "f896e39eef9a6440ab0ed789a7908e49e478953f"
+    },
+    {
+      "path": "mods/Architects-Palette-1.16.4-1.1.4.jar",
+      "hash": "c5380434324f5d81d9b8d6d8c7ba96a2c813ef9a"
+    },
+    {
+      "path": "mods/architectury-1.24.35-forge.jar",
+      "hash": "fade14086ef70293a005900efdd907d502d640a4"
+    },
+    {
+      "path": "mods/armourersworkshop-forge-1.16.5-2.0.0-beta.8.jar",
+      "hash": "6d81cb2d91d46aefdd83a8b76462c49d2b77da62"
+    },
+    {
+      "path": "mods/arsenal_core-1.1.1-1.16.5.jar",
+      "hash": "255eba3aea7dcf0c131f06fd708d94dbf91b808c"
+    },
+    {
+      "path": "mods/astikorcarts-1.16.5-1.1.1.jar",
+      "hash": "161fe91e8b4472df9bc4c69e73dc695f81de356b"
+    },
+    {
+      "path": "mods/bendy-lib-forge-1.2.1.jar",
+      "hash": "d3adbf7db927f9d4c0940e3ca6c22260aeadda09"
+    },
+    {
+      "path": "mods/BetterAdvancements-1.16.5-0.1.0.108.jar",
+      "hash": "1dfeb432ee24b7f26dd51c5a5cacde30e785f6d8"
+    },
+    {
+      "path": "mods/BetterBurning-1.16.5-6.0.6.jar",
+      "hash": "51d1b01f317c47f8af15eab7c80548cfb149023e"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-1.0.7-build.22+mc1.16.5.jar",
+      "hash": "c6d3f19b522ca13e9857a31d0badbe3918e281a7"
+    },
+    {
+      "path": "mods/betterfpsdist-1.2.jar",
+      "hash": "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e"
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.16.4-1.10.2.jar",
+      "hash": "aecf62d254395e4068b6537e0563291f8e1a7e67"
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.16.5-13.1.0.482-universal.jar",
+      "hash": "8a6d3a802444db6aa4e1ce8e82c6fe78541ecf61"
+    },
+    {
+      "path": "mods/Buddycards-1.16.5-2.5.2.jar",
+      "hash": "0b0588c6d19d8d35fbaa4af0d2f8e50620b79021"
+    },
+    {
+      "path": "mods/bwncr-1.16.5-3.10.16.jar",
+      "hash": "9613759fa750abb12824bb0a6f7a22f2559214a8"
+    },
+    {
+      "path": "mods/catalogue-1.5.0-1.16.5.jar",
+      "hash": "807f8d67280f2f3899ff85792936d700da6a5049"
+    },
+    {
+      "path": "mods/cavebiomeapi-1.16.5-1.3.7.jar",
+      "hash": "32732bd88b9a0ca797dde9d14a4ca12e47a382ae"
+    },
+    {
+      "path": "mods/CBMultipart-1.16.5-3.0.3.122-universal.jar",
+      "hash": "e6bc754197a704cb441a99cc11ab30f5b6cceb02"
+    },
+    {
+      "path": "mods/cc-tweaked-1.16.5-1.99.1.jar",
+      "hash": "d401f1b203f49bf42fafcf6dba93b1d8500bc8a9"
+    },
+    {
+      "path": "mods/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+      "hash": "495ac2e30c068c3d458e318a8322aa3309637ff3"
+    },
+    {
+      "path": "mods/chiselsandbits-1.0.43.jar",
+      "hash": "bda99dcfdd9defdc8b0fc3304712cb8fa7e31abc"
+    },
+    {
+      "path": "mods/Chunk Pregenerator-V1.16-3.2.0.jar",
+      "hash": "f7f0a223cecdde30179f8499bfedaac908a48abe"
+    },
+    {
+      "path": "mods/ChunkNoGoByeBye-1.16.5-1.3.0.jar",
+      "hash": "9c97be75e7aeee626cde568cdcef8773d73db0a5"
+    },
+    {
+      "path": "mods/citadel-1.8.1-1.16.5.jar",
+      "hash": "cf60d0fc6b6d1357832c64d665870f555f23e19b"
+    },
+    {
+      "path": "mods/ClientTweaks_1.16.3-5.3.0.jar",
+      "hash": "379cb679871b11d03641eb1e1d2c449a7f246195"
+    },
+    {
+      "path": "mods/cloth-config-4.12.41-forge.jar",
+      "hash": "48898db8c47eb4647e4c442c2566cbeee74f851e"
+    },
+    {
+      "path": "mods/cloth-config-4.16.91-forge.jar",
+      "hash": "422e4f65872bf8babfa139094b7cb242e9f9f434"
+    },
+    {
+      "path": "mods/Clumps-6.0.0.27.jar",
+      "hash": "b5ff85e1089a45c181b185bdde89b1063dc20b00"
+    },
+    {
+      "path": "mods/cobblegenrandomizer-1.16-5.1.2.jar",
+      "hash": "cf19491e41ecfd5cf8dbc39544c533b6a0d0e29d"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.16.5-4.0.5.438-universal.jar",
+      "hash": "01b8206ad67d1bfd33b6da7f89d9bc9463178a9f"
+    },
+    {
+      "path": "mods/cofh_core-1.16.5-1.4.0.6.jar",
+      "hash": "00641ab8a1342464159ec32ee5046c3a0dc693b6"
+    },
+    {
+      "path": "mods/collective-1.16.5-5.16.jar",
+      "hash": "1c72cf7daf346f823bc94406ebe6daa262a6efb7"
+    },
+    {
+      "path": "mods/configured-1.5.1-1.16.5.jar",
+      "hash": "3ecfe55e790ccc73e6acbfd13668f5eb1e9860c4"
+    },
+    {
+      "path": "mods/connectivity-2.4-1.16.5.jar",
+      "hash": "883662eeacebaf02b5be174265b7016270e5cf05"
+    },
+    {
+      "path": "mods/constructionwand-1.16.5-2.6.jar",
+      "hash": "5d3f50a097efacae47b74a0505ce3ea38f55daae"
+    },
+    {
+      "path": "mods/Controlling-7.0.0.28.jar",
+      "hash": "8833b92989a652473a7dff40c28407d2ab4cc5d3"
+    },
+    {
+      "path": "mods/cookiecore-1.16.5-3.3.0-12106d2.jar",
+      "hash": "91687a7141b8f8ae60c5eb48685e1bc6a4fa5379"
+    },
+    {
+      "path": "mods/corpse-1.16.5-1.0.6.jar",
+      "hash": "dcbedff1a6ed626cdd3cdb0f4265e8d064f73389"
+    },
+    {
+      "path": "mods/CosmeticArmorReworked-1.16.5-v4a.jar",
+      "hash": "7623a7792664ff913b5eecc40c0032f99cdeec83"
+    },
+    {
+      "path": "mods/CraftingTweaks_1.16.5-12.2.1.jar",
+      "hash": "7183e8110ff47f65b8389057a91dc639b8f07f84"
+    },
+    {
+      "path": "mods/crashutilities-3.12.jar",
+      "hash": "f32dafbb6352ab9661d39bad0d688d3db1c4a93f"
+    },
+    {
+      "path": "mods/create-mc1.16.5_v0.3.2g.jar",
+      "hash": "5b32b0310d037deed14200e3b748bd02d46d9471"
+    },
+    {
+      "path": "mods/CTM-MC1.16.1-1.1.2.6.jar",
+      "hash": "c097e077974a2c84c4309edfe91d76f6bdc90d4c"
+    },
+    {
+      "path": "mods/culinaryconstruct-forge-1.16.5-4.0.0.6.jar",
+      "hash": "1c6a7667cf77e7835f3d7e309e5f2f1b4440a978"
+    },
+    {
+      "path": "mods/curios-forge-1.16.5-4.0.5.3.jar",
+      "hash": "a69c63694c671ecb9adb72e8f303c1196219950f"
+    },
+    {
+      "path": "mods/curios-forge-1.16.5-4.0.8.0.jar",
+      "hash": "14a6dfa711628d694582f7d54a7dca0fafcbab3a"
+    },
+    {
+      "path": "mods/CustomNPCs-1.16.5.20220515.jar",
+      "hash": "868c476be34bac92bc4f98d864a8d62c3792817d"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeLegacy-14.14.jar",
+      "hash": "025eff82215eca90bd5ef93c398a57d85dcbf5c2"
+    },
+    {
+      "path": "mods/CustomWindowTitle-1.15+v1.1.1.jar",
+      "hash": "e9a71ec10c355cc2442717cb1909f2d72ed9c360"
+    },
+    {
+      "path": "mods/darkerdepths-1.16.5-1.1.4.jar",
+      "hash": "71acc778d36a4571353576e7f2c87dcde0636bb1"
+    },
+    {
+      "path": "mods/decorative_blocks-1.16.4-1.7.2.jar",
+      "hash": "b2f1cc7ce9556364bc8fb74b1fed0bd5e8550c5b"
+    },
+    {
+      "path": "mods/decorative_blocks_abnormals-1.2.jar",
+      "hash": "b982f159c05788707461867298a22fcf117d8168"
+    },
+    {
+      "path": "mods/DefaultOptions_1.16.5-12.2.1.jar",
+      "hash": "f82b68888df26c65cf2893876b9bd961b99ef935"
+    },
+    {
+      "path": "mods/Desolation 1.1.0-2 1.16.5.jar",
+      "hash": "16798e5577f39c13f78ec033f15501af2e287e08"
+    },
+    {
+      "path": "mods/Dice-1.16.5-1.2.0.jar",
+      "hash": "8939761395102d525fd34c33f7f7729e119549b0"
+    },
+    {
+      "path": "mods/drinkbeer-1.16.5-2.3.5.jar",
+      "hash": "6b06f6e1aba859e0a7a2f4b9912a99c46b1ee32b"
+    },
+    {
+      "path": "mods/DungeonCrawl-1.16.5-2.3.2.jar",
+      "hash": "1dca07bd86515ccb7977143089992b62ee1dedbc"
+    },
+    {
+      "path": "mods/durabilityviewer-1.16.4-forge35.0.7-1.10.1.jar",
+      "hash": "858e5575964b4d55df305be17a93358f19d3fee4"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+      "hash": "291a114185f4f58039cf81ac2032c391bb04f70f"
+    },
+    {
+      "path": "mods/Dynmap-3.4-forge-1.16.5.jar",
+      "hash": "a7b453034151bbfe65a1ebf8721e5425f8b6d2a5"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.16.5-2.2.5-forge.jar",
+      "hash": "9181084a8ddea618dc53ce44a69d560d80d90b3b"
+    },
+    {
+      "path": "mods/enchantedbookredesign-3.3-1.16.4.jar",
+      "hash": "60de95a75bb2e043bfe6a43146ea9a51e3bf277a"
+    },
+    {
+      "path": "mods/endergetic-1.16.4-3.0.0.jar",
+      "hash": "b9e2e605602cc161ddbd152775cd199098956889"
+    },
+    {
+      "path": "mods/EnderStorage-1.16.5-2.8.0.168-universal.jar",
+      "hash": "57cd2f5cc480f667292c5cbea1e408d5e923c663"
+    },
+    {
+      "path": "mods/Exchangers-1.16.5-3.0.2.jar",
+      "hash": "0782af298f05382ba9f25e6e845298fe2535c351"
+    },
+    {
+      "path": "mods/exoticbirds-1.16.4-1.3.0.jar",
+      "hash": "b57579f3c9e847e05b5b448b68e383a21ce47034"
+    },
+    {
+      "path": "mods/extcaves-2.4.jar",
+      "hash": "310b1b02c3a846e6254fc542ed804036ef75064e"
+    },
+    {
+      "path": "mods/fairylights-4.0.5-1.16.5.jar",
+      "hash": "3f2cf9817b2c2a657d609e4244395c4d1b3d8cad"
+    },
+    {
+      "path": "mods/FarmersDelight-1.16.5-0.5.3.jar",
+      "hash": "57d0afab2453f081b9fd8e974aa9521367392b80"
+    },
+    {
+      "path": "mods/fastfurnaceminusreplacement-1.1-1.16.3.jar",
+      "hash": "8c7af5a173b56a57ccebf82595d2af2ad04f092d"
+    },
+    {
+      "path": "mods/FastLeafDecay-v25.jar",
+      "hash": "a9769a4a3e0e680c8a34c816ff73ba423e8a17d3"
+    },
+    {
+      "path": "mods/FastWorkbench-1.16.4-4.5.1.jar",
+      "hash": "31099c37a52cef8a639504ddde2452e6bb27f4b8"
+    },
+    {
+      "path": "mods/ferritecore-2.1.0-forge.jar",
+      "hash": "50e7db5712b5ab8a2d96624eaff11cacb067824a"
+    },
+    {
+      "path": "mods/flywheel-1.16-0.2.5.jar",
+      "hash": "30dbb119ce3d455bee065c0bef04a00827b3a5b3"
+    },
+    {
+      "path": "mods/forbidden_arcanus-16.2.2.jar",
+      "hash": "7d605a71ed514baa5c469ad6a1986388c3c55b56"
+    },
+    {
+      "path": "mods/ForgivingVoid_1.16.5-5.2.1.jar",
+      "hash": "b3b7db20ce9d025abe1d5cbac0761ca0b0e398fe"
+    },
+    {
+      "path": "mods/FpsReducer-forge-1.24-mc1.16.5.jar",
+      "hash": "46b54c1dc54a560593d938cd73cee5c28e8465f6"
+    },
+    {
+      "path": "mods/ftb-backups-2.1.2.2.jar",
+      "hash": "a64aea94d690401649a818eb8a8262d0921e5acf"
+    },
+    {
+      "path": "mods/ftb-chunks-forge-1605.3.2-build.83.jar",
+      "hash": "58bb3eb9dfab2d011fe60138223de801a1830c39"
+    },
+    {
+      "path": "mods/ftb-library-forge-1605.3.4-build.90.jar",
+      "hash": "23ade163a6b1bff75e4d819321b43df16f9bfb79"
+    },
+    {
+      "path": "mods/ftb-quests-forge-1605.3.5-build.72.jar",
+      "hash": "b221946d740e364b80499b769056fa04f57f7939"
+    },
+    {
+      "path": "mods/ftb-teams-forge-1605.2.3-build.40.jar",
+      "hash": "1f37f10fcb5f02bd3217aeca02d496529629315d"
+    },
+    {
+      "path": "mods/geckolib-forge-1.16.5-3.0.95.jar",
+      "hash": "1e1a7d290d494027212c4b880086057ec3f890aa"
+    },
+    {
+      "path": "mods/grapplemod-1.16.5-v12.jar",
+      "hash": "74e82999ac776ac42837995bb7611745dd92c755"
+    },
+    {
+      "path": "mods/GunpowderLib-1.16.5-1.2.2.jar",
+      "hash": "021f130e36ce52fc912a6a7c41e1dc40a348eeec"
+    },
+    {
+      "path": "mods/iceandfire-2.1.11-1.16.5 (1).jar",
+      "hash": "8309d28f4c0e459fa8e599a30e07c13bd9deb4a2"
+    },
+    {
+      "path": "mods/iChunUtil-1.16.5-10.5.0.jar",
+      "hash": "d0fe3cacefcf94988cc6e9b4da89f5d59cfbc15e"
+    },
+    {
+      "path": "mods/ImprovedBackpacks-1.6.2.0.jar",
+      "hash": "dbb73e90463daa8f3c0ccfc125b4e75427994f1f"
+    },
+    {
+      "path": "mods/inventorysorter-1.16.1-18.1.0.jar",
+      "hash": "fb538c5a8eb1e8a7a2bc35f3344b816634d53e4e"
+    },
+    {
+      "path": "mods/item-filters-forge-1605.2.5-build.9.jar",
+      "hash": "52c14355c8e416d30f92eb2a2544f397f4693c34"
+    },
+    {
+      "path": "mods/Jade-1.16.4-2.8.0.jar",
+      "hash": "108bb973835c12182fdd5478b99374d430fb4d81"
+    },
+    {
+      "path": "mods/jecharacters-1.16.4-4.3.6.jar",
+      "hash": "aee138e56f1e667d4a2d686ba4d9358e13f44061"
+    },
+    {
+      "path": "mods/jei-1.16.5-7.7.1.137.jar",
+      "hash": "9bbf784d416d325cc0773afd630b1234fb3ef42e"
+    },
+    {
+      "path": "mods/kotlinforforge-1.17.0-obf.jar",
+      "hash": "b9df7eef9f3c9bf77f19b15879d123de650a85e3"
+    },
+    {
+      "path": "mods/kubejs-create-1605.1.2-build.7.jar",
+      "hash": "3c91b9dfa1f0e3d4f86d16748bcbe4ee2bb90cad"
+    },
+    {
+      "path": "mods/kubejs-forge-1605.3.19-build.229.jar",
+      "hash": "474cc2f201a2540c30d3de5c1eaeeb41bff2eb14"
+    },
+    {
+      "path": "mods/kubejs-thermal-1605.1.4-build.3.jar",
+      "hash": "b642eca59bd05dab3d4e4f49e10c56dfc606377d"
+    },
+    {
+      "path": "mods/lanserverproperties-1.4.jar",
+      "hash": "1f508e4c59279cb0797ca51993759f071ab04de2"
+    },
+    {
+      "path": "mods/lazydfu-0.1.3.jar",
+      "hash": "3ce32ac0a8656f9ba27bfb4623358a51516f80ed"
+    },
+    {
+      "path": "mods/LibVulpes-1.16.5-1.0.2-25-universal.jar",
+      "hash": "9880e089f92c1afa1224c694af7d982ddadef359"
+    },
+    {
+      "path": "mods/lootr-1.16.5-0.0.9.30.jar",
+      "hash": "772e3970182e7560bc014ff40dc64d12000e7c5d"
+    },
+    {
+      "path": "mods/magicfeather-1.16.2-3.2.0.jar",
+      "hash": "6c09ce3c61915dec2f0a28da97111a0688b8898f"
+    },
+    {
+      "path": "mods/Mantle-1.16.5-1.6.147.jar",
+      "hash": "54722fb8be9d7e57929dd3ae61f28a0efe9f2a0d"
+    },
+    {
+      "path": "mods/metalbarrels-1.16.2-3.3b.jar",
+      "hash": "88366869a9166350b01a293d6d040d89c73bb143"
+    },
+    {
+      "path": "mods/mightyarchitect-mc1.16.3_v0.5.jar",
+      "hash": "4078dfb40dbd3189a184aad812c72fcdbeb50810"
+    },
+    {
+      "path": "mods/Modpack+Configuration+Checker-1.16.x-v1.9.5.jar",
+      "hash": "5b28945880bbc55f5905696d7b38eee73a0119bb"
+    },
+    {
+      "path": "mods/moreminecarts-1.3.12.jar",
+      "hash": "b6706d0992492058d1611d5ff21d89c27970ee0f"
+    },
+    {
+      "path": "mods/MoreObservers-1.4.1-MC1.16-Forge.jar",
+      "hash": "683686e53abbbad5c35c1028e245744b673573d5"
+    },
+    {
+      "path": "mods/Morpheus-1.16.5-4.2.70.jar",
+      "hash": "8f956961e4994c98aab06765355875f91631bb43"
+    },
+    {
+      "path": "mods/MouseTweaks-2.14-mc1.16.2.jar",
+      "hash": "5f2366c650c102c71e98c9445f86a266ba20e1e4"
+    },
+    {
+      "path": "mods/NaturesCompass-1.16.5-1.9.1-forge.jar",
+      "hash": "38c37c257dcdcf47d5b363eb3e39eebc645b7be4"
+    },
+    {
+      "path": "mods/Neat+1.7-27.jar",
+      "hash": "c11c05f861f274d1750859c27f77c2d5cca8574f"
+    },
+    {
+      "path": "mods/nolakes-0.1-1.16.4.jar",
+      "hash": "d11cbc8dbbb6fb22bacc28dd62c34ae201e73758"
+    },
+    {
+      "path": "mods/occultism-1.16.5-1.20.1.jar",
+      "hash": "cf1f198b011d28a8d11477fa6f3cc54f930c0dc3"
+    },
+    {
+      "path": "mods/OpenLoader-1.16.5-9.0.3.jar",
+      "hash": "d3b23eb2da0571b6378528668bdbd142f0d8654d"
+    },
+    {
+      "path": "mods/orcinusscaves-1.3.jar",
+      "hash": "cc9e4ecf93ac9153764ad42fdf9ef884b6d92c00"
+    },
+    {
+      "path": "mods/OreTweaker-1.16.5-2.6.0.jar",
+      "hash": "4c6e2b4bc1c86de7795bee1238111ebe6fefced3"
+    },
+    {
+      "path": "mods/paintings-1.16.4-7.0.0.1.jar",
+      "hash": "f1898fc7a2f28cb65811eda259066146b9d59961"
+    },
+    {
+      "path": "mods/Patchouli-1.16.4-53.2.jar",
+      "hash": "99d57bfeaf9b046cde2fb68fba283ac26aebc963"
+    },
+    {
+      "path": "mods/PathToDirt-1.2.0-mc1.16.x.jar",
+      "hash": "247bd677cf9361d2d1136e558a202233264e098f"
+    },
+    {
+      "path": "mods/pipez-1.16.5-1.2.13.jar",
+      "hash": "0f56cafeee0983a95ed603bc57a4c916b3f146fb"
+    },
+    {
+      "path": "mods/Placebo-1.16.5-4.6.0.jar",
+      "hash": "55c6732ec5a607e9b3386d03c18889e763cccbf1"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-0.4.0-test1+1.16.5.jar",
+      "hash": "2b7d5b385fa07ca2890ec354ced475324a9aabb2"
+    },
+    {
+      "path": "mods/ponderjs-1.16.5-1.0.3d.jar",
+      "hash": "1ed16a0335eb533f4395992066ccd3b79bd0dac0"
+    },
+    {
+      "path": "mods/portable_stonecutter-1.16.5-1.3.5.jar",
+      "hash": "bf07a3b39d8a861ccf61ce24135e9da2035d1505"
+    },
+    {
+      "path": "mods/portality-1.16.5-3.2.5.jar",
+      "hash": "24777d0e969692e14968b78929fff2f00f1913c2"
+    },
+    {
+      "path": "mods/PrettyPipes-1.9.5.jar",
+      "hash": "51f6e3d721fe6f00bef2f833fca78fd96c32937f"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-beta-6-core.jar",
+      "hash": "3f324d5083351f7ca995e00c8c3b7dcea3aadc54"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-beta-6-illumination.jar",
+      "hash": "9dde8f27557645cd228f6d1cf3960a6587a84040"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-beta-6-integration.jar",
+      "hash": "a3c38e793be70b3647b5117bb121b208aaa6bfea"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-beta-6-transmission.jar",
+      "hash": "2f8e108a4df8ffe2383693f372b619a99e23ad57"
+    },
+    {
+      "path": "mods/randomium-1.16.5-1.7.jar",
+      "hash": "2a82caff7ef63398d4846e997e3a90d0e4ff36ea"
+    },
+    {
+      "path": "mods/ravencoffee-1.16.5-beta_01.jar",
+      "hash": "c39ace126c420884992d213d666ed28b3c4a5ed7"
+    },
+    {
+      "path": "mods/reliquary-1.16.5-1.3.5.1100.jar",
+      "hash": "2f48e51f90b2cef928216d6a805ace20b4ee3ba5"
+    },
+    {
+      "path": "mods/repurposed_structures_forge-3.4.4+1.16.5.jar",
+      "hash": "f8b3974b84b33526dec5d5b8ed50b98d137f7eb2"
+    },
+    {
+      "path": "mods/rhino-forge-1605.1.5-build.75.jar",
+      "hash": "d7cf08ed860845564a22cd17c1f17f857d4b33dd"
+    },
+    {
+      "path": "mods/Rubber_Duck-1.16.5-1.2.0.jar",
+      "hash": "4a29194a0bd2fcd0d89b35714c62f6c214f1a841"
+    },
+    {
+      "path": "mods/rubidium-0.2.10.jar",
+      "hash": "42b1dd26a20e12c680228b8a03dfbf88e7fbd0b3"
+    },
+    {
+      "path": "mods/saturn-mc1.16.5-0.0.3.jar",
+      "hash": "369084c7781b208982fc1a957ffdfcdbd3059de1"
+    },
+    {
+      "path": "mods/Scorge-3.1.3.jar",
+      "hash": "0215ac06f10921ab1ce0026731264289058d17e2"
+    },
+    {
+      "path": "mods/selene-1.16.5-1.9.0.jar",
+      "hash": "bffec3d3ec6bc76858c1dc5d7624c564a7d437ce"
+    },
+    {
+      "path": "mods/shutupexperimentalsettings-1.0.3.jar",
+      "hash": "0db5333ee87e5672026912fb0c7b77d34e27d13c"
+    },
+    {
+      "path": "mods/smallships-1.16.5-1.10.1.jar",
+      "hash": "5ab382fd70a7130c688855d44c0d0ee80ab98956"
+    },
+    {
+      "path": "mods/smoothboot-forge-1.16.4-1.2.2.jar",
+      "hash": "483f6d696b5166fd0f3fbf6b2e8138bc39db2660"
+    },
+    {
+      "path": "mods/SoundFilters-0.14_for_1.16.2.jar",
+      "hash": "efafa1532145a34b5c8965cc3e146d7a616f29b3"
+    },
+    {
+      "path": "mods/spark-forge.jar",
+      "hash": "3fe6f628e5d0239436dc2776f3193e3f0f66856c"
+    },
+    {
+      "path": "mods/SpartanWeaponry-1.16.5-2.2.0-rc-2.jar",
+      "hash": "cc73afe52049a34593e9a4da9900e9cdde9e5a8c"
+    },
+    {
+      "path": "mods/SpawnerFix-1.16.2-1.0.0.2.jar",
+      "hash": "7afca46cda651407d537ab2b25b06d3320731b06"
+    },
+    {
+      "path": "mods/StorageDrawers-1.16.3-8.3.0.jar",
+      "hash": "b71684fd78243ab7b4e7c6ad548000f88cf0888b"
+    },
+    {
+      "path": "mods/strawgolem-1.16-1.9.jar",
+      "hash": "a4be39912298b3abfdaccc1d8c003f3544ebbfe1"
+    },
+    {
+      "path": "mods/structurescompass-1.16.5-1.2.0.jar",
+      "hash": "d1062fd74c0b5d1ab0294a60ac66ffd9c00ef98f"
+    },
+    {
+      "path": "mods/supplementaries-1.16.5-0.17.12b.jar",
+      "hash": "9ea1781d00d54e416e1255acb6f84d132ab04ba0"
+    },
+    {
+      "path": "mods/TConstruct-1.16.5-3.3.0.308.jar",
+      "hash": "58a035677953bf4a5ed9be0b6b1f1bb9cf620b4b"
+    },
+    {
+      "path": "mods/textrues_rubidium_options-1.0.3-mc1.16.5.jar",
+      "hash": "1d90dc8891a0d44c3b92629bb8b9d1843ae4b891"
+    },
+    {
+      "path": "mods/thermal_expansion-1.16.5-1.4.1.3.jar",
+      "hash": "a4ac6332cbe550d0c7a02c56144efa90e4a6533b"
+    },
+    {
+      "path": "mods/thermal_foundation-1.16.5-1.4.1.7.jar",
+      "hash": "c41e4424a2dcb1dfc01cd2c556afc41ac7c81bcc"
+    },
+    {
+      "path": "mods/thermal_innovation-1.16.5-1.4.1.3.jar",
+      "hash": "3881b4eef64cd0ad6fe1e7efea1ab6d0bf8680f8"
+    },
+    {
+      "path": "mods/thermal_locomotion-1.16.5-1.4.1.2.jar",
+      "hash": "3a7e91b52f5dc082d16f38e8eb62caa935faeed6"
+    },
+    {
+      "path": "mods/titanium-1.16.5-3.2.8.7-22.jar",
+      "hash": "658ef1ac6f4d69620f83b8e1d3f23e83af2c1707"
+    },
+    {
+      "path": "mods/torchmaster-2.3.8.jar",
+      "hash": "f73e1202e7582df14f951945b5a3d63503f93e42"
+    },
+    {
+      "path": "mods/UltimateStack-1.16.4-4.2.0.jar",
+      "hash": "e2cc9c5b3e591c5a9bb9df4f9195f86e6e53b325"
+    },
+    {
+      "path": "mods/valhelsia_core-16.0.13a.jar",
+      "hash": "5551a6410724176cb504e4487d4c0fbcabe86711"
+    },
+    {
+      "path": "mods/WaterStrainer-1.16.3-10.0.0.jar",
+      "hash": "451c484ed340daf8d81804cc88b3f5182fe1dd22"
+    },
+    {
+      "path": "mods/worldshape-1.0.jar",
+      "hash": "425373e3908c5eb8a1991d6a877244d05cd9ea16"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.28.0_Forge_1.16.5.jar",
+      "hash": "89447db708569346cf6041fa0641cdfefa74b2c1"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_22.15.1_Forge_1.16.5.jar",
+      "hash": "361850e51954e1942feb845b2da468580aa9ee0a"
+    },
+    {
+      "path": "mods/xkdeco_0.2.4.jar",
+      "hash": "f326590d95e85d77ea5b7c69f6c1eec5118ecdb9"
+    },
+    {
+      "path": "mods/[1.16.4]+Valtiel+s+Girl+Armor+Mod-2.9.8.jar",
+      "hash": "b30ab1c39bf1e1474f803fe057df11dd6b72edca"
+    },
+    {
+      "path": "mods/[1.16.5]-Epic-Knights-Armor-and-Weapons-5.11v.jar",
+      "hash": "df2bedcafa079999b4d85af15ce401bc65fea794"
+    },
+    {
+      "path": "mods/[1.16.5]-Medieval-Siege-Machines-v1.8.jar",
+      "hash": "6edf2dff227033b4a20d304d66a9002d3f8b9112"
+    },
+    {
+      "path": "openloader/.cache",
+      "hash": "1218386ac8c0260001d7d9e520ecaa25d501f94b"
+    },
+    {
+      "path": "openloader/data/generated_datapack.zip",
+      "hash": "f0a40f471bf49509b7d5dbb430e6f127c793f4e8"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/fueltank.json",
+      "hash": "6452deb8fce6927b1741c049e4fbc16ad6eee02b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/launchpad.json",
+      "hash": "be61b684485bd9ab7adee1b7bbdaee05c2430b90"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/moonturf.json",
+      "hash": "6d1aa2618acafa8389bcfffbf6e2d9fa6f983533"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/rocketmotor.json",
+      "hash": "64ec913927a2c6f157e05be40d48cd2cffe4c07f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/lang/en_us.json",
+      "hash": "965bd036a0e342a4410350218d9eeb3be0175de4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/fuelingstation.json",
+      "hash": "7d2c393e58711ebe445e90c1e19686c0e6800298"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/fueltank.json",
+      "hash": "5e7a2b88150ab7db99e88a18b0bde2f70505f467"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/guidancecomputer.json",
+      "hash": "2bcbb294f7d6c779e2861138e0a0f1e9110f63a2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/launchpad_all.json",
+      "hash": "40a8f1559c7bb6e83e7c016ee7dfc4d91ef02744"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_1.json",
+      "hash": "db6518d004011f5cfdd38a37b634f00cf13aad50"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_2.json",
+      "hash": "5f596724b87028ad353dda9101e9ee5e6ea84e57"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygencharger.json",
+      "hash": "acd8c485e93b0c7af97b70e298d2ae64e5088e46"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygenvent.json",
+      "hash": "c8e454ab116f25c9cef74aefe88fa4982a1f2d29"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketbuilder.json",
+      "hash": "7517ecd0204b7919b0ac4f46c61dbfc3422fe90f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketmotor.json",
+      "hash": "3956b7656b07636790bb4a0b1cad2084e6751536"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/seat.json",
+      "hash": "846a1f2f62cb8c7378f591177271f40d7137441e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/structuretower.json",
+      "hash": "33c343048158fd4a0ba70f8b5a2627fe9f7ff19d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/fueltank.json",
+      "hash": "8d3f47b4eb0aebd36a24fe01797bf3baace7c792"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/launchpad.json",
+      "hash": "9ef76a31a1c95b7797592ead4f6031bd345be339"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/rocketmotor.json",
+      "hash": "320673e065324c9f2960a7021ad627567a16ebe6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1.png",
+      "hash": "d0f915c94d4097f70be0842d44f3e2d748a554f7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1_overlay.png",
+      "hash": "3cde286a52471948a10131ccf5a4d8f76e0d83cb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2.png",
+      "hash": "6c471485bace7ee9231d03a2db9b209ae9a39337"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2_overlay.png",
+      "hash": "4a598a9968691853f256dbe162535e5f3e44a3e9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/assembler.png",
+      "hash": "31a9c7d09ac3ca771ddc1897e40c47f9eb9437c9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png",
+      "hash": "52a19f24ceee4fb2b73a0954b95ca489cb2ffb87"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png.mcmeta",
+      "hash": "d103f706eb44f690fe3bdd8f88665ab07ed452a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png",
+      "hash": "90c1fe7fa39abfd5eadc025d962eb5a660add6f2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png.mcmeta",
+      "hash": "d103f706eb44f690fe3bdd8f88665ab07ed452a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fuelloader.png",
+      "hash": "5db162e1b9ae1a7e54d226cf23d779345cff4ba5"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png",
+      "hash": "66f0846af22f5783b04c758019883603075b2338"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png.mcmeta",
+      "hash": "fa47c476c77a5743f446502304f617f0b0c286ba"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_ctm.png",
+      "hash": "b29256b82a869ca60e15b4955697af2f11c4ddb4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_top.png",
+      "hash": "d8355e9caeb0f2cbecae9d404fe3315de2d416a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/gaschargertop.png",
+      "hash": "1953950487b9247ed9dbf02ed4cb894c4b9f3fcc"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/guidancecomputer.png",
+      "hash": "a6ebccdfded70a32aab154fc31b4943a250be607"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine.png",
+      "hash": "eea8ae2e0d097849961efd4f2d35a28c283a23ab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent.png",
+      "hash": "de53ee2bde4b9c3ff510b4cb563224d1667d0513"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent_end.png",
+      "hash": "d46fb8b3efc1dadc0e850fa7047fdac0a66855fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine_end.png",
+      "hash": "d46fb8b3efc1dadc0e850fa7047fdac0a66855fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf.png",
+      "hash": "6c1eea589e6f2b933905fc4996fc4a067e799eab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_1.png",
+      "hash": "1909f2e73e634523e8040f2bceef1dadde566dcd"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_2.png",
+      "hash": "af17cf04cb5b6b8295c13134cff4ce5296490946"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/panelside.png",
+      "hash": "817df25508681b881c1229d988afe33446d10236"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png",
+      "hash": "1a53382c4651d0d65ebb65dba28f402962c15187"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png.mcmeta",
+      "hash": "7c835c23f91f391502f227e9486c21ef6f9ae655"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png",
+      "hash": "ad95993009406e110b4287b5cb68ab919a251b78"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png.mcmeta",
+      "hash": "c824bc6385531e37bade996b4f1ac4b1c0ec5b1e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top_ctm.png",
+      "hash": "4aa22fb535a5476b7d84f451f20a1c721c642822"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold-ctm.png",
+      "hash": "8b1091a713419f5fdffaca12061f422843b7eba3"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png",
+      "hash": "8b5cec67062b4446b4535977f99bd36a9d087159"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png.mcmeta",
+      "hash": "60c27bc13f831c261a348007fa065aaf8ab4756d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat.png",
+      "hash": "f04571b88608c7afad9068ec3c39394bff4aa323"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat_top.png",
+      "hash": "47555e44d169c19bd3334e0b42e9d8e7db41af9b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/tank_inner.png",
+      "hash": "81223a3912acd3c952f1a88c81dc7bd39ad2024e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster.png",
+      "hash": "08a75ee0ec6212a63f4d75491104ed00aad7cb6e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster_top.png",
+      "hash": "61bed755a2e3db8ff58d6d3da41295abf143b8a9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun.png",
+      "hash": "39c4f08d3b0fc229ac2fd10ad3474ce2d7a52ba9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun2.png",
+      "hash": "17f2f6ec628aa1c8176803eff6343fefbc7833a9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/gui/rockethud.png",
+      "hash": "5e5b0a392d6f626fa252dd3803c3816b50553cc7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/planetidchip.png",
+      "hash": "aaf47c47332dfeb2970e6fba5fe71d73c3fe695d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet.png",
+      "hash": "5b24c10eb0320de3df19b8f13d59fa3b537e10cf"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet_overlay.png",
+      "hash": "d87d2f43d94a92f6932f0976ec84ce7bdcdacc8a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_hydrogen.png",
+      "hash": "e13bb284559163bd94c1b9e0bad3c90f8d57fe23"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_oxygen.png",
+      "hash": "fdd405ae9864263093348a74c463ec50ec2f6263"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/girder.png",
+      "hash": "a166f3fdda7bb860185fb953c2c7bda22d92abbd"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/grid.png",
+      "hash": "82c9a76e7650164c83ca8fd1e56d550f1c61322c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/round_h.png",
+      "hash": "0deac66cb227df56ad1179997d91f05c99b70d21"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/atmosphere2.png",
+      "hash": "c14b3efa08c5d114adf57d5a1f8169ca5d863a01"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.pdn",
+      "hash": "11b459af6752550916111987a37424e92a70a403"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.png",
+      "hash": "31a0482c8f71b8b88b5d7bdd45cbfcf66272ab1b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikebase.png",
+      "hash": "34e9ecc4b54704de6a7a6940428cc2f005481881"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikeleo.jpg",
+      "hash": "554e910037cd0cde7e1b787b2af27b707c626c2d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moon.png",
+      "hash": "492cbaf41238949f87a55ac394809b93fba93510"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moonleo.jpg",
+      "hash": "b9fee2d661535c08d5d81f2d698d2a88455384e6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadow.png",
+      "hash": "694322ee01fa4da8b0a158ea933998d30a8a2a36"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadowold.png",
+      "hash": "5cc5b95070a7bcaa0a3f05ba77f78d436aaac428"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/charger.json",
+      "hash": "0078336e2a874851458f0f2614f5a0d213b89f46"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_base.json",
+      "hash": "a5a2a8757d031ce0699cb381e15172aa6f8ea2ea"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_pointer.json",
+      "hash": "5f8f6da258249c243264322dbc32746948784c32"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/charger.png",
+      "hash": "4ef29043f73973f3c7b78fa5d6018360cfb82bc6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/sky_compass.png",
+      "hash": "81c0e960aa1c213f25e92c4b9c44aa8b92bcaa2b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/calculation_processor.png",
+      "hash": "cbda11c963c7df5a9436582909d48a7c46f40c89"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/printed_calculation_processor.png",
+      "hash": "e145adbe3153560d335c4df9069ec2bc95fe546e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss.png",
+      "hash": "554f5eb63206f4aa7c533db4e8de1a245c90fde8"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss_plant.png",
+      "hash": "c5382f2148a409d25afb3ce966a9aa10b2dd5cd6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png",
+      "hash": "1b9360e8585e1967177159f85bab2e98534a8418"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png.mcmeta",
+      "hash": "299644242ebc293d253be6012f4c326430422eed"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/cofh_core/textures/gui/elements/scale_compact.png",
+      "hash": "256d9a73be6ec3a05b1af1402ef2871ad2ad3d2b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/lang/en_us.json",
+      "hash": "f31b2f67c594d2a01773fddab171ffe4306e6ba5"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/block.json",
+      "hash": "82cf1d84aea0ae7aa75a946e3939181d037c7d66"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/item.json",
+      "hash": "a07a3981b32c7c53127890f82ec24962eee4ae36"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/block/portable_storage_interface.png",
+      "hash": "34413bf8c95eeedf2d97fd489cec3c0b777a254c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/item/golden_electron_tube_unused.png",
+      "hash": "0f301dc716e16b835f39a58668980388a08bb563"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/item/incomplete_precision_mechanism.png",
+      "hash": "f3e3a31b7cf974b6416b77b6b6273063f0353a50"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/enderchest.png",
+      "hash": "6802f9e7bfef774b5e3d30bfdf6155c3d4148b0a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/endertank.bbmodel",
+      "hash": "95e4d6bb2e9315a7accf309d45a4b5b466b7e70a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/endertank.json",
+      "hash": "2b098819a01827a39a6f12adbd0c3ae1f65a6d64"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/endertank.mtl",
+      "hash": "02bee59d3177148aa78a7e693f632774c5fdc622"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/endertank.obj",
+      "hash": "97919320602157b7c0612b71509e12b15cbadcfb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/models/endertank.png",
+      "hash": "389a5f314e7d61738bd35b5fe232998d3ed682db"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/textures/enderchest.png",
+      "hash": "6194d61cd7c0bfb2e9934884b215ad0beffe8603"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/enderstorage/textures/endertank.png",
+      "hash": "d8a5bb34420df2d90d47c6ac663bb8904907def1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/extcaves/blockstates/brokenstone.json",
+      "hash": "3489ee33d81c1a23968cfa1626c60585532891f0"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/extcaves/models/block/brokenstone.json",
+      "hash": "f3b78f34209e5a29d3474433e70bd41134cfbe1a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/extcaves/textures/block/brokenstone.png",
+      "hash": "87e337316c7f73af39c8232b3bb308a907db48ae"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/lang/en_us.json",
+      "hash": "480eed2fa3319b8cd2abce3213eb26f286f74a55"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/models/item/linker.json",
+      "hash": "777fa5c9269b42300e1f307b3b9cff032fefd22d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/textures/item/linker.png",
+      "hash": "48c1105700283dcff6834e454ee682e69bdaf3ff"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/lang/en_us.json",
+      "hash": "c3be222602f05293d8cdc5e5d626c15ddc2b72da"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_bottom.png",
+      "hash": "44f6c249e3540768a24283e9d3f420e7de82c35e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_side.png",
+      "hash": "3dac6adfca654932f80e7d209d8acbde3f6fffa7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top.png",
+      "hash": "1867ed526e72f42fe67229277eb9a647fd6c54e1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top_open.png",
+      "hash": "9e2ac66650fd0e0c55f057b1ddd04fa2e127b1be"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_bottom.png",
+      "hash": "1521f7283a098b83eec068e64aa471bb39929fef"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_side.png",
+      "hash": "3b0431a61d147736ca405032c7ad49c8c0460025"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top.png",
+      "hash": "535c73919ad87931ae09a30cc8e9f438c0f70f84"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top_open.png",
+      "hash": "ff27f43ffaed19a2eeb0503cdd342ef8191fef1d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_bottom.png",
+      "hash": "60549b0968182adae3d294421a8726cbc87c95c6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_side.png",
+      "hash": "17edda760a9ea0adc92fbde4ccbed502af093283"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top.png",
+      "hash": "340f387a0bb0d02498c9a687c61975d97561a0e5"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top_open.png",
+      "hash": "bd65af3584c0b5ec6782392353c6a192ce3d58ff"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_bottom.png",
+      "hash": "c368166d31bbd1dea66af92205033568ac615d14"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_side.png",
+      "hash": "2fbcc040221606baabb683221dd8a3f8aabe7fbd"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top.png",
+      "hash": "560f0a3141d1cb9a6090755174806e9927e3000b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top_open.png",
+      "hash": "b7c2040155d8331dbf85ff8aa0fc2fdf87ca6286"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_copper.png",
+      "hash": "9970910bc5d64b6a4f62c0b6c53a75396867bc41"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_gold.png",
+      "hash": "509211d7afca2184a508807ff0fea44771bb5e06"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_iron.png",
+      "hash": "ef054a4e67498149bd8f9b1ade06b705156f2bb3"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_silver.png",
+      "hash": "cb0c19a71f6d9a7cd1fcf2ac10703493dea68b7a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/texts/splashes.txt",
+      "hash": "b858cb282617fb0956d960215c8e84d1ccf909c6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_0.png",
+      "hash": "411cf13ce84dd01c33ccfd614f95a886c52efda1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_1.png",
+      "hash": "81e6606bd20d3952f2812af0254076a7f46ae6c9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_2.png",
+      "hash": "a8076fcdf2766ec7820fac589199a5542446436f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_3.png",
+      "hash": "e44a31951ecaec8796e1f3387df22fbf90675e77"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_4.png",
+      "hash": "285a1f8141a2d26ebf2371a355cd6b8b8aa850b4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_5.png",
+      "hash": "2b6325d749ccded254ff302d304d7dfadb142d41"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/occultism/lang/en_us.json",
+      "hash": "e30c1963bc01c57a572a3f79d63dc15735a17869"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/occultism/sounds/start_ritual.ogg",
+      "hash": "4cfc486adce609f6889f9a81da7b54354d226074"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/blockstates/energy_pipe.json",
+      "hash": "7ef8e19847d2946bf7106d044a0267234845afa6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/lang/en_us.json",
+      "hash": "bdff7909dd8f82d60ea0f330536db1518bba3b0d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/bottom_corner.json",
+      "hash": "7c1ad2fba5b2a2bfb5472642ce35d70ffed58f17"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/cover.json",
+      "hash": "726fbdb6d10825a3abcf737c72ed51dbaa1676d6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/end.json",
+      "hash": "6585f815d001f3ecc6b36fa6875432756995e0c4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/energy_pipe_extract.json",
+      "hash": "d7d58a6b3437e88ffc82fe839d8756643ba3f1d4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/open_end.json",
+      "hash": "1805c3671c26fb4bb354760adb9b07d0ed715d31"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/side_corner.json",
+      "hash": "8fb14e8d88f23b4ca5399cc7f5b8fd0dec412812"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/single.json",
+      "hash": "1c6207c14189cf8db78cf0036036acfaeb8b2ebf"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/top_corner.json",
+      "hash": "3fefa88e73f1936cfa326a0f139d5abe995cc446"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/block/window.json",
+      "hash": "901ac2287ec923db0bd6f3f02264995b4e8418e0"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/models/item/energy_pipe.json",
+      "hash": "8a781fa6631b3c3341b012add8949316edfaef6b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_cover.png",
+      "hash": "9a995413f787018a45a15ee3a8c569ac6d033975"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end.png",
+      "hash": "c8605f9edf32d03640458f8cee678f2d275b7faa"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end_inner.png",
+      "hash": "ec54756def2a811ec354bdf7abe5133c6ff4a197"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_extract_overlay.png",
+      "hash": "9bdcd5dd1bb884d661caa2d0d89ae438d18af483"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims.png",
+      "hash": "45b581dd607b14167a784d38ba4367476b39a3aa"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims_inner.png",
+      "hash": "3d6c18621ae3c17fed2138bd5bb1b3a1d19101ae"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/blockstates/pipe.json",
+      "hash": "5105294dfe698047671818ab09802d9a013914de"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/lang/en_us.json",
+      "hash": "9211cf3d112633149d0d00c00c0f9b7b0512dc76"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/andesite_card.json",
+      "hash": "01ad379d1ded437fe3e181a0fe621871d42f72f6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/bottom_corner.json",
+      "hash": "99a20d1fcd27c4e1d9add0fb3b6ec81802786eaf"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/cover.json",
+      "hash": "48fa8a06f61cfd0d6ac4c0e079b03e7cf1d1646c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/crafting_terminal.json",
+      "hash": "e9affc1b71e9b80164b0c1d970be7ccf35ecd6f1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/end.json",
+      "hash": "7c4c7050034a47e34e75ebf5c1779443c64473aa"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/item_terminal.json",
+      "hash": "ca72a7d9b9900a02200b8df96d6c3f6967a1f441"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/legs.json",
+      "hash": "c730e4acf1c08fdb7daef99b14a29634e560990b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/open_end.json",
+      "hash": "062dc2d79c5b5ee782a98029f45c2136c45a4493"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/pressurizer.json",
+      "hash": "754cdbcc529484131faa5a5876b26dbf72e7a34a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/side_corner.json",
+      "hash": "c576f0f3cbf5698dd71476c7ed47b5c11f3b1cf1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/single.json",
+      "hash": "5ce748962305f3bdb127ec8a8270ea67bee25ea7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/top_corner.json",
+      "hash": "2da75c903d5d4c004f2ba3b2e3b6cb1df8246da2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/block/window.json",
+      "hash": "4fc8c3d919f11d89c1bb264b3b42e82cc207d824"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/models/item/pipe.json",
+      "hash": "e8e7282aa8d01a2b307763032fedba0f790f779f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png",
+      "hash": "9c9440946c5bcffad5e165e34dbad9a43b3404ab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png.mcmeta",
+      "hash": "48606b11508069eda0d1a3a0f6df4d14c5da7be0"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_cover.png",
+      "hash": "431da6231e8b75c9c377ac7eeb70c80b2e96ac37"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end.png",
+      "hash": "98fad819ee6ec7b9ead7d6794b4a1bba94d59e88"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end_inner.png",
+      "hash": "f63759c4e4daa9b8f7e1e7733a14d79c4bd90720"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims.png",
+      "hash": "6a5b0ff3e7e92860ec457e504a693fd4525b4dc1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims_inner.png",
+      "hash": "2898894088013cee05364783717da5e1e3867a83"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/block/terminal.png",
+      "hash": "dbdfe8feed86c9fb872a31eca866b7c08fafd92f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/prettypipes/textures/item/pipe_frame.png",
+      "hash": "095889eccb44e8d3240770bafc9ed296a8c2eaab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/projectred-core/lang/en_us.json",
+      "hash": "f5603b0a4b501f8091ceb7b61168c3929952af14"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/rubber_duck/sounds/rubber_duck_use.ogg",
+      "hash": "c2fb651dcadff2fe44aa87a539e796b5bc5f984e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/structurescompass/lang/en_us.json",
+      "hash": "db3f55db8966130d307347d4799050f591d54626"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/tconstruct/lang/en_us.json",
+      "hash": "0bfacaa0c51355ea9fca1addc9186db73db61c2e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/lang/en_us.json",
+      "hash": "d72a7107243c98a4f2f48a7a88e9ef9ac954dfe2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/models/block/machine_press.json",
+      "hash": "dab4a9b2681e18aeaf8f30b7a42e60d0ba15d23e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/config/machine_config_accessible.png",
+      "hash": "86b51a68074595e42834202facb8516b016bbd6e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector.png",
+      "hash": "baaef783a7f80400e488651d31bf4a168ac754fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_active.png",
+      "hash": "14cbff4033fd0a2c4af70f8227802030423f6bad"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_bottom.png",
+      "hash": "54615b63e495b8b51bbc35a561adc2df1f7df979"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side.png",
+      "hash": "2cea88a75cc0738198f3b97270ddb20bde1d5596"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side_active.png",
+      "hash": "61b5df18b35cd12699eab166fda2e2f510db4922"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier.png",
+      "hash": "86c8f5effb48b7c631f5b98c76f4c100e172cc26"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png",
+      "hash": "930b339df6c34f3b8e441b9989b671cc905a5b4d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png.mcmeta",
+      "hash": "201813cc62818fc31ab1c48fb1c8d9d6073b7c80"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_bottom.png",
+      "hash": "1a2f4c824fd0ef7db7fb3ddd77e189fdaaa8e918"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_side.png",
+      "hash": "3e77ad492376a993d63cd214293ee0d211fd39e4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen.png",
+      "hash": "c51a4e0b5e4e4d8fbebcedfe2639362c76c75832"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png",
+      "hash": "d0cdc2c192cce0b7b74e7699e95c347c5305531d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png.mcmeta",
+      "hash": "6c7b56c68fe3600e6c49a8827132a9d6c45a7f93"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_bottom.png",
+      "hash": "0b3683287ad8a258236ba4613cfab14fb43a6f43"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side.png",
+      "hash": "49e76d5456b4d652a98b26aef7bf4c2c91127e19"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side_active.png",
+      "hash": "f3ce2a6df162bc8d5bea10435bb3daa0c8c6c656"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png",
+      "hash": "db36abc96eb89ec486cc8f94a8dc8b1667c6271d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png.mcmeta",
+      "hash": "b09b4a1106c0fcf90a8a839969e253c1741cd7f6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_front.png",
+      "hash": "dc7b93dbab0d3ca167133faf218bdaffa2282f19"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_side.png",
+      "hash": "fd1cc43d415691180810746293b7f65b7a0859eb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/gui/jei_handler.png",
+      "hash": "57b2f1e9f89688252b3327f7022594afb36853b1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_1.png",
+      "hash": "6d40da608b845234333c9976231fcce88e9ee944"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_2.png",
+      "hash": "9fa96af5f9a9a0faca8c25ac4e777f4869723987"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/apatite_dust.png",
+      "hash": "6d03ff5302b5a07cba5540d275c67beda46a87f4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/cinnabar_dust.png",
+      "hash": "9166c51dbf089c2a54d8a337849d89be6c97e63d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/ingots/invar_ingot.png",
+      "hash": "7d1a6d120e05aeab7ebd2fcac18109d31a7e573c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/lang/en_us.json",
+      "hash": "a7b6e48f101f6932078ddd2c83a964de90889379"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type5.json",
+      "hash": "9d345702e5a0c5ab447371987a1dcbe3e786ab73"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type7.json",
+      "hash": "094a7355ed1b9d36a473e7827b945c23db1f0733"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_side.png",
+      "hash": "ce27f09b0687ed9ca0413326dae1df60c82d2bb9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_top.png",
+      "hash": "61a6b97fb456cf924803745c7fa982ad993b6ec3"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman.png",
+      "hash": "cd9046ed2f349a626a75e6c3798daff04c91f6a4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman_top.png",
+      "hash": "58c3b59000d97d8f27231eeabf7676c149de7948"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman.png",
+      "hash": "0bf1dd2b7c02c4b2a0a3d63b60b2a4ebc2eae1af"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman_reinforced.png",
+      "hash": "24d80af1f4e521bd04f82ab5173c5076bcb35ce6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist.png",
+      "hash": "d3cc86f2061d20b8849e7f3f70914c1ccd1437cf"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png",
+      "hash": "aeedcc74eeef78b172b742e088b75fea3ada695c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png.mcmeta",
+      "hash": "ca80f30ceb178ca620f3453caba38be10b3ee0fe"
+    },
+    {
+      "path": "openloader/resources/simis_edits/pack.mcmeta",
+      "hash": "8a255b94c25765294305b933aeaeba3792dcc77d"
+    },
+    {
+      "path": "options.txt",
+      "hash": "41b18aa6d9daaa1df3f0a231520fffd336645c86"
+    },
+    {
+      "path": "paintings/paintings.json",
+      "hash": "fc292d8ca7768abf72ecd469a4589a109dbebba3"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "b25365d1c7629d189c37695f533f614975a7f42f"
+    },
+    {
+      "path": "schematics/uploaded/minecraft97323/chetoutoutoutoutoutoutoutou.nbt",
+      "hash": "17af0325b048356bf184131a96363b7237c01beb"
+    },
+    {
+      "path": "schematics/uploaded/minecraft97323/KeYunCheXiang.nbt",
+      "hash": "806d82d61cbaba13dcbd77145e916511784cd2e9"
+    },
+    {
+      "path": "schematics/uploaded/minecraft97323/lanche.nbt",
+      "hash": "62571868cbf93e0d69fd255414b2e73d9bf4c09e"
+    },
+    {
+      "path": "schematics/uploaded/minecraft97323/ranliao.nbt",
+      "hash": "7930d7b6d834997cdeb3b371e39fc675ed4a6d89"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "19f7ff0f8f761211835a82912a64c5c387acd226"
+    },
+    {
+      "path": "worldshape/data/pack/structures/blacksmith_shop.nbt",
+      "hash": "f2078a7d826d16c8855ce604f2f3ec07865f5e73"
+    },
+    {
+      "path": "worldshape/data/pack/structures/broken_windmill.nbt",
+      "hash": "5ded15aa816c72248aea1fb07944e9a39727b162"
+    },
+    {
+      "path": "worldshape/data/pack/structures/campsite.nbt",
+      "hash": "b97e1fcac608b1ef5c0a1a32bca1314f8e8bddbc"
+    },
+    {
+      "path": "worldshape/data/pack/structures/crashed_rocket.nbt",
+      "hash": "d9f90b40f9a800d7544ab97e2db78f1b97da1f97"
+    },
+    {
+      "path": "worldshape/data/pack/structures/log_cabin.nbt",
+      "hash": "8944437029cf3afd2b893ff2da801efc496b0df2"
+    },
+    {
+      "path": "worldshape/data/pack/structures/moonbase_cargo.nbt",
+      "hash": "107711eb4f6baa35ac19ced5fa00fbd08b73ec8a"
+    },
+    {
+      "path": "worldshape/data/pack/structures/moonbase_me.nbt",
+      "hash": "f289abe4d19f9056e98762888ffbbdb393cb88f8"
+    },
+    {
+      "path": "worldshape/data/pack/structures/moonbase_oxygen.nbt",
+      "hash": "d904f7c89e79ce86606579794e9f4f37bdab36d1"
+    },
+    {
+      "path": "worldshape/data/pack/structures/moonbase_rusty.nbt",
+      "hash": "7681898c81e76e08012f31671dfa1062c3621725"
+    },
+    {
+      "path": "worldshape/data/pack/structures/moonbase_wreck.nbt",
+      "hash": "797e222544701fa724dd974d308ba14fc4af8a0d"
+    },
+    {
+      "path": "worldshape/data/pack/structures/oil_fountain.nbt",
+      "hash": "ee4b73562ebcf78b755e09c25917df8e6279fe15"
+    },
+    {
+      "path": "worldshape/data/pack/structures/oil_fountain_1.nbt",
+      "hash": "dedcb43e72d8c2e26b276006581696324d55082f"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/bad_ending.nbt",
+      "hash": "1b4979708648c84391c5f6dc66b7b5669207c681"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/good_ending.nbt",
+      "hash": "bdb0f6f06101773a5f80375b36567c1fdcb93860"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/house.nbt",
+      "hash": "17bc3bac9ccbedf675be1dc6a33a0a67e9084792"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/slope_both.nbt",
+      "hash": "759f69a35ed4346a2122dd86c1f2c352fe07b794"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/slope_left.nbt",
+      "hash": "cd5700d99ab85a8d3598dc8eb4adf0311e514d50"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/slope_right.nbt",
+      "hash": "81abb73f33c1e9917030476ce94f98ebca8ab404"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/slope_straight.nbt",
+      "hash": "2edcdea3979addf52bba2f872dc0f0029f7cdef1"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/watery.nbt",
+      "hash": "5efdb542f07f5b6088bc62c517703c52dc67015e"
+    },
+    {
+      "path": "worldshape/data/pack/structures/railshaft/weak_slope.nbt",
+      "hash": "c6ff87a3d278dba22d5e8e1dd9540107c32f4b7b"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/arch.nbt",
+      "hash": "4e7224aa41a64619e30c59318c7bbf0f8c83b0f7"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/bridge.nbt",
+      "hash": "794beb7e18f668c2cc0ce518a4ccd2e32d550f0e"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/crossing.nbt",
+      "hash": "2c7f82c6b78003d8e17af8bacc16b40815b9cbb5"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/end.nbt",
+      "hash": "8ad5b322771e655bcf4d5e4a171506f95efcb96b"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/foundation.nbt",
+      "hash": "5c1bf007fd2387bcba0eb7adb54fc47da2fed3b0"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/house.nbt",
+      "hash": "bd83fb69ecead50824077d0539d78544eced695f"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/spires.nbt",
+      "hash": "ba01cbcaabdad43176b92dbbcbd6099609dc8aa8"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/straight.nbt",
+      "hash": "287ab1c9ed90b6ba4af99ea65923f51f168c51b9"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/tower.nbt",
+      "hash": "93cd1ae7e8ad40a21391f93374454711fdbbee8b"
+    },
+    {
+      "path": "worldshape/data/pack/structures/ruins/gabbro/turn.nbt",
+      "hash": "428f5377caf164dbdcaaf8416f2bd83c7ffb5b61"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/blue.nbt",
+      "hash": "989f0f5c6a8e6d472fae19395abc45979a37bf9a"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/blue_1.nbt",
+      "hash": "d768ba60a2f1e191c49dbd1482697db145653e81"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/blue_2.nbt",
+      "hash": "5ed71e7a72e59f146ef0e5e1ec8f3c8799e22056"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/blue_small.nbt",
+      "hash": "110f1ef53a36af0e5796650cdb9640e76893a1b3"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/green.nbt",
+      "hash": "2cd21941e017033d57811202735a1effd0af9576"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/green_small.nbt",
+      "hash": "da2acc4a6b92200150714544b5992950e5e62b3a"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/purple.nbt",
+      "hash": "d790d9d0cfc44e9f3186f26833b4c01807f1e757"
+    },
+    {
+      "path": "worldshape/data/pack/structures/slime/purple_small.nbt",
+      "hash": "e2602d5f5651dea8d0952d70824eaa641250244b"
+    },
+    {
+      "path": "worldshape/data/pack/structures/underground_lab.nbt",
+      "hash": "d62761f1f38eff22aac0f5c94468680319c7dae0"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/broken_windmill.json",
+      "hash": "d4d7abd6fbb3e3abfe0ffe5f4cf811ec0de8bb55"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/crashed_rocket.json",
+      "hash": "2c4d3f6e3eea9081bade2fc8531f46ac88bdb9b5"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/log_cabin.json",
+      "hash": "09e04303581ad42bd3aa6e723f3d3a974f8579fa"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/moonbase.json",
+      "hash": "0ded248d3a8848a64f4da65bf18ad51fc476bc88"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/oil_fountain.json",
+      "hash": "cd456363cb321c6f242165df5e4863819c36d964"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/railshaft.json",
+      "hash": "68de57095c838d17f2e25a16ba83b7eb2ceed620"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/ruins.json",
+      "hash": "789fd79a3a5c60ac9e9e15ea85139fae1185df93"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/slime.json",
+      "hash": "9ff59b92815426a27c8e0ead09dd3d10cb42ee93"
+    },
+    {
+      "path": "worldshape/data/pack/structure_spawners/underground_lab.json",
+      "hash": "4d5a62d6f5ac8b9c6a3d5921dc8d52032bb39b97"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/moonbase.json",
+      "hash": "0d070f7a908b33785e9c4017e22a7bdefab305da"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/oil_fountain.json",
+      "hash": "4def15ebfd1d909f24b45c20421362533ebbdb0d"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/railshaft/after_horizontal.json",
+      "hash": "89ecbdcecae6d3b242ecdd0486df6fe0b49a888f"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/railshaft/after_slope.json",
+      "hash": "14ca5918489c8216fe6b3c2251fd2fc05ff7766a"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/railshaft/first.json",
+      "hash": "240321d873005f5a2eb4fdc0f966a1934f5db440"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/railshaft/house.json",
+      "hash": "3bbbd39f827267173f5aa7d4adb41989fe115a3f"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/ruins/any.json",
+      "hash": "967b5eda57b20cf5d63b2428ab8b6aed4452890a"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/ruins/gabbro.json",
+      "hash": "438fe641d2d8d3925c9abe8aabf22aa03ae5bc9e"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/slime/any.json",
+      "hash": "f31006e06cec00d8acc3ffea2f30f6670df41e26"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/slime/blue_1.json",
+      "hash": "b30d9b34de60a02f03f0029a365dc43fdeb99d4d"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/slime/blue_2.json",
+      "hash": "903323b6291610d5d79435f1dfab41a1b916299e"
+    },
+    {
+      "path": "worldshape/data/pack/worldgen/template_pool/surface_build.json",
+      "hash": "c5b0efa53c3f747d5da8ce12521b1fefee925c51"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.35"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "name": "RETE1.16.5",
   "author": "minecraft97323",
-  "version": "1.3.6 Fix",
-  "description": "修复遗留的错误",
-  "fileApi": "https://raw.fastgit.org/1zyao/RETEclient/main",
+  "version": "1.3.7",
+  "description": "1.添加时装工坊和AstikorCarts模组。\n2.增加稳定性。",
+  "fileApi": "https://e.liuzhen932.fun/raw.githubusercontent.com/1zyao/RETEclient/main",
   "files": [
     {
       "path": ".abnormal",
@@ -154,10 +154,6 @@
       "hash": "3fce804f0826db9c2a728837333c11c6e95ba56c"
     },
     {
-      "path": "config/blur-client.toml",
-      "hash": "dbd48d5d38020e9b45fe1cff5e28032dbae9b1ce"
-    },
-    {
       "path": "config/buddycards-client.toml",
       "hash": "11f9518c20edf524eedc71f11dbceddccb670fab"
     },
@@ -199,7 +195,7 @@
     },
     {
       "path": "config/clienttweaks-client.toml",
-      "hash": "a6decec7a49f883cf0ff6b083b60757a1fb1eace"
+      "hash": "4adcde9907cd48c91e4f248b57be20a091dfea00"
     },
     {
       "path": "config/cobblegenrandomizer-common-1.toml.bak",
@@ -215,7 +211,7 @@
     },
     {
       "path": "config/collective-common.toml",
-      "hash": "19d8e04bfbc4e59600e22a5f69d31942d87dc982"
+      "hash": "100c794906b094e96a94eeb9d5a157dab4ba65e0"
     },
     {
       "path": "config/computercraft-client.toml",
@@ -270,10 +266,6 @@
       "hash": "bead710ee0540fd8ae3c5164b2d02ae15b06e35c"
     },
     {
-      "path": "config/CustomNpcs.cfg",
-      "hash": "5a13cdfe869456c1fc0beb66e27fe4719b0beb48"
-    },
-    {
       "path": "config/customwindowtitle-client.toml",
       "hash": "92b96398e35927f16478b75826a045ebd8274738"
     },
@@ -307,7 +299,7 @@
     },
     {
       "path": "config/durabilityviewer.json",
-      "hash": "1708237d5867777d1b23fde932e307ca0c05ce71"
+      "hash": "622e3abfde8f7ae1909e2f44941d893af91a52d6"
     },
     {
       "path": "config/dynamic_lights_reforged.toml",
@@ -552,10 +544,6 @@
     {
       "path": "config/ftbquests/quests/data.snbt",
       "hash": "74a9b473564cb174e363024be0eae6637aa3e622"
-    },
-    {
-      "path": "config/gamemenumodoption-client.toml",
-      "hash": "08e14fc45862d349b6d9670a511dd12f6d6ebcbc"
     },
     {
       "path": "config/grapplemod.toml",
@@ -838,10 +826,6 @@
       "hash": "d834b6422e8501244fae4673b62c59f848bb51d3"
     },
     {
-      "path": "config/keystrokesmod-client.toml",
-      "hash": "77ff30714b7c61e777c0da213e92761c40e6bad0"
-    },
-    {
       "path": "config/knightly-armory_epicfight.toml",
       "hash": "2437bb125ddf25521c90655740367ae2fdcc8c30"
     },
@@ -862,18 +846,6 @@
       "hash": "66d378414bfe33cc70cc4e5c364708112c39553a"
     },
     {
-      "path": "config/ModernUI/bootstrap",
-      "hash": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"
-    },
-    {
-      "path": "config/ModernUI/client.toml",
-      "hash": "7121856701fb97e254d4d6cfb30c9e0f06866c48"
-    },
-    {
-      "path": "config/ModernUI/common.toml",
-      "hash": "5f56d3216bd8d445572bd96f29d8501982b55761"
-    },
-    {
       "path": "config/moreminecartsconfig.toml",
       "hash": "7d183f8f7d02039d0ac3ee5db6a1bee928aa9585"
     },
@@ -891,7 +863,7 @@
     },
     {
       "path": "config/neat-client.toml",
-      "hash": "c2cc4a2f76e470112c45bc8da5ce4cc17cac9bfb"
+      "hash": "72467f86b3b7b7cfa12be05652c8f797ecd472dd"
     },
     {
       "path": "config/occultism-client.toml",
@@ -1283,7 +1255,7 @@
     },
     {
       "path": "config/sidebar_buttons.json",
-      "hash": "27c79e3e2136ba62a4eee50bb0a66a0d8c12cba2"
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
     {
       "path": "config/siege-machines-specs-1.toml.bak",
@@ -1450,16 +1422,12 @@
       "hash": "dd38a1c2404a73309d5feb3fdb9aefe161a7d3bf"
     },
     {
-      "path": "config/wwta-client.toml",
-      "hash": "2ffdab4e01f325400c145f2e5faedcc70d75df4a"
-    },
-    {
       "path": "config/xaerominimap.txt",
       "hash": "89af4a188fcb058a1e152c4a4094838b0dd974fb"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "3bf735d5b620dfbbb92ebd590bd93ce0357824c9"
+      "hash": "d6ce6f95d74d0ac92d08e4fa4a026c70bcbe26ce"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -1476,14 +1444,6 @@
     {
       "path": "config/xreliquary-common.toml",
       "hash": "a4f6bb57c44182149a1f09357e68e5d438617a10"
-    },
-    {
-      "path": "customnpcs/assets/customnpcs/sounds.json",
-      "hash": "1bd8ce28f3075c8699068a4628ebd664915b4a1a"
-    },
-    {
-      "path": "customnpcs/pack.mcmeta",
-      "hash": "485e37a760a3a42c843330af9c5a4fcf7d2da43c"
     },
     {
       "path": "defaultconfigs/create-server.toml",
@@ -2294,8 +2254,16 @@
       "hash": "fade14086ef70293a005900efdd907d502d640a4"
     },
     {
+      "path": "mods/armourersworkshop-forge-1.16.5-2.0.0-beta.8.jar",
+      "hash": "6d81cb2d91d46aefdd83a8b76462c49d2b77da62"
+    },
+    {
       "path": "mods/arsenal_core-1.1.1-1.16.5.jar",
       "hash": "255eba3aea7dcf0c131f06fd708d94dbf91b808c"
+    },
+    {
+      "path": "mods/astikorcarts-1.16.5-1.1.1.jar",
+      "hash": "161fe91e8b4472df9bc4c69e73dc695f81de356b"
     },
     {
       "path": "mods/AttributeFix-1.16.5-10.1.4.jar",
@@ -2732,6 +2700,10 @@
     {
       "path": "mods/ModernUI-1.16.5-2.7.1.105-universal.jar",
       "hash": "6ffc42ca79bd864918c7506edbffc6310b3251af"
+    },
+    {
+      "path": "mods/Modpack+Configuration+Checker-1.16.x-v1.9.5.jar",
+      "hash": "5b28945880bbc55f5905696d7b38eee73a0119bb"
     },
     {
       "path": "mods/moreminecarts-1.3.12.jar",
@@ -4027,7 +3999,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-1-16.zip",
-      "hash": "cce957d321a9169d4efa33caa3f0b0fed692ee54"
+      "hash": "5d389aa140760e9de106baa1b9dc75dc2ffe806b"
     },
     {
       "path": "servers.dat",
