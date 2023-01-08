@@ -14,7 +14,7 @@
                  Text="当前可增量升级版本：1.3.6" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Left"
-                 Text="下载整合包更新文件" EventType="立即下载" EventData="https://file.rete.buzz/compatible/RETEcompatibleupdate1.3.6-1.3.7.zip" />
+                 Text="下载整合包更新文件" EventType="下载文件" EventData="https://file.rete.buzz/compatible/RETEcompatibleupdate1.3.6-1.3.7.zip" />
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
         </StackPanel>
