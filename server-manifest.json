@@ -2,7 +2,7 @@
   "name": "RETE1.16.5",
   "author": "minecraft97323",
   "version": "1.3.7",
-  "description": "1.添加时装工坊和AstikorCarts模组。\n2.增加稳定性。",
+  "description": "1.添加AstikorCarts模组。\n2.增加稳定性。",
   "fileApi": "https://reteserver.ml/raw.githubusercontent.com/1zyao/RETEclient/main",
   "files": [
     {
@@ -2252,10 +2252,6 @@
     {
       "path": "mods/architectury-1.24.35-forge.jar",
       "hash": "fade14086ef70293a005900efdd907d502d640a4"
-    },
-    {
-      "path": "mods/armourersworkshop-forge-1.16.5-2.0.0-beta.8.jar",
-      "hash": "6d81cb2d91d46aefdd83a8b76462c49d2b77da62"
     },
     {
       "path": "mods/arsenal_core-1.1.1-1.16.5.jar",
