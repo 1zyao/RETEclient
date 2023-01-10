@@ -1,7 +1,0 @@
-
-#General settings
-[general]
-	#How high is the damage value of xuan yuan jian's power
-	#Range: 0.0 ~ 3.4028234663852886E38
-	maximum_power_damage = 25.0
-
