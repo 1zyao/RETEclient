@@ -14,7 +14,7 @@
                  Text="您需把目录内.jre开头的文件夹删除再将补丁文件覆盖到启动器上级目录即可" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Left"
-                 Text="下载整合包补丁文件" EventType="下载文件" EventData="https://file.rete.buzz/compatible/RETE1.16.5(自动更新)-java8.zip />
+                 Text="下载整合包补丁文件" EventType="下载文件" EventData="https://file.rete.buzz/compatible/RETE1.16.5(自动更新)-java8.zip" />
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
         </StackPanel>
