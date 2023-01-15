@@ -16,6 +16,5 @@
                  Text="服务器官网" EventType="打开网页" EventData="https://www.rete.fun" />
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
-        </StackPanel>
     </StackPanel>
 </local:MyCard>
