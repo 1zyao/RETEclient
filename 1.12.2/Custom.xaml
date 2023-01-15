@@ -1,6 +1,6 @@
 ﻿<local:MyCard Title="整合包信息">
     <StackPanel Margin="25,40,23,15">
-<local:MyHint Margin="0,8,0,2" IsWarn="False"
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
                    Text="当前主页公告版本为v1.1" />
         <TextBlock TextWrapping="Wrap"
                  Text="RETE服务器欢迎您，" />
@@ -10,7 +10,7 @@
                  Text="推荐您在版本更新时更新最新版本" />
         <local:MyButton Margin="0,8,0,10" Width="250" Height="35"
                  Text="启动 RETE 1.12.2" EventType="启动游戏" EventData="RETE 1.12.2" />
-        <local:MyButton Margin="0,8,0,0" Width="250" Height="35" HorizontalAlignment="Left"
+        <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Left"
                  Text="服务器官网" EventType="打开网页" EventData="https://www.rete.fun" />
         <local:MyButton Margin="0,8,0,0" Width="190" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
