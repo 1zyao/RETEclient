@@ -9,7 +9,7 @@
         <TextBlock TextWrapping="Wrap"
                  Text="推荐您在版本更新时更新最新版本" />
         <local:MyButton Margin="0,8,0,10" Width="250" Height="35"
-                 Text="启动 RETE 1.12.2" EventType="启动游戏" EventData="RETE 1.12.2" />
+                 Text="启动 RETE 1.12.2" EventType="启动游戏" EventData="RETE1.12.2" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
         <local:MyButton Margin="0,8,0,0" Width="180" Height="35" HorizontalAlignment="Left"
                  Text="服务器官网" EventType="打开网页" EventData="https://www.rete.fun" />
