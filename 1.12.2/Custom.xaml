@@ -1,11 +1,11 @@
 ﻿<local:MyCard Title="整合包信息">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                 Text="当前主页公告版本为v1.1" />
+                 Text="当前主页公告版本为v1.2" />
         <TextBlock TextWrapping="Wrap"
                  Text="RETE服务器欢迎您，" />
         <TextBlock TextWrapping="Wrap"
-                 Text="整合包最新版本1.1！" />
+                 Text="如果自动更新报错，请选择整合包的Java，整合包的java是修改过的。" />
         <TextBlock TextWrapping="Wrap"
                  Text="推荐您在版本更新时更新最新版本" />
         <local:MyButton Margin="0,8,0,10" Width="250" Height="35"
