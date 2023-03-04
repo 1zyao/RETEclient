@@ -1,22 +1,24 @@
 ﻿<local:MyCard Title="整合包信息">
     <StackPanel Margin="25,40,23,15">
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                 Text="当前主页公告版本为v1.3" />
+                 Text="当前主页公告版本为v1.4" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="True"
+                 Text="服务器以启用外置登录模式，请在皮肤站注册账号并在启动器进行外置登录" />
         <TextBlock TextWrapping="Wrap"
                  Text="RETE服务器欢迎您！" />
-        <TextBlock TextWrapping="Wrap"
-                 Text="推荐您在版本更新时更新最新版本" />
-        <local:MyButton Margin="0,8,0,10" Width="250" Height="35"
-                 Text="启动 RETE 1.12.2" EventType="启动游戏" EventData="RETE1.12.2" />
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-        <local:MyButton Margin="0,8,0,0" Width="180" Height="35" HorizontalAlignment="Left"
+        <local:MyButton Margin="0,0,0,0" Width="180" Height="35" HorizontalAlignment="Left"
                  Text="服务器官网" EventType="打开网页" EventData="https://www.rete.fun" />
-        <local:MyButton Margin="0,8,0,0" Width="180" Height="35" HorizontalAlignment="Right"
+        <local:MyButton Margin="0,0,0,0" Width="180" Height="35" HorizontalAlignment="Right"
                  Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
-        <local:MyButton Margin="0,8,0,0" Width="180" Height="35" HorizontalAlignment="Left"
-                 Text="RETE Skin" EventType="打开网页" EventData="https://skin.mcrete.top" />
-        <local:MyButton Margin="0,8,0,0" Width="180" Height="35" HorizontalAlignment="Right"
-                 Text="RETE论坛" EventType="打开网页" EventData="https://bbs.rete.top" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+        <local:MyListItem Margin="0,0,8,0" 
+		                  Logo="https://skin.mcrete.top/app/favicon.ico" Title="RETE皮肤站" Info="注册账号，更换皮肤。" 
+		                  EventType="打开网页" EventData="https://skin.mcrete.top/" Type="Clickable" />
+        <local:MyListItem Margin="8,0,0,0"
+		                  Logo="https://bbs.mcrete.top/assets/favicon-hs05zduw.png" Title="RETE论坛" Info="官方公告，问题反馈。" 
+		                  EventType="打开网页" EventData="https://bbs.mcrete.top/" Type="Clickable" />
         </StackPanel>
     </StackPanel>
 </local:MyCard>
